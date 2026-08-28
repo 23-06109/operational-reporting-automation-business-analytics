@@ -1,0 +1,751 @@
+﻿Activity_ID,Department,Activity_Type,Description,Priority,Planned_Start,Planned_Finish,Actual_Start,Actual_Finish,Status,Progress_Pct,Responsible_Team,Revision_No,Approval_Status,Last_Update
+ACT-0001,Construction,Installation,Execute planned installation,Medium,2026-03-03,2026-03-09,2026-03-03,2026-03-04,Completed,100,CONST-A,1,N/A,2026-03-04
+ACT-0002,QA/QC,Inspection,Conduct quality inspection,Medium,2026-06-20,2026-07-09,2026-06-20,,In Progress,25,QA-B,2,N/A,2026-06-30
+ACT-0003,Engineering,Technical Query,Resolve site technical query,Low,2026-01-29,2026-02-11,2026-01-31,,In Progress,95,ENG-B,1,N/A,2026-02-03
+ACT-0004,Engineering,Technical Query,Respond to engineering query,High,2026-04-07,2026-04-27,2026-04-13,,In Progress,30,ENG-B,3,N/A,2026-04-25
+ACT-0005,Construction,Site Preparation,Prepare work area,Medium,2026-02-27,2026-03-09,2026-03-04,,On Hold,60,CONST-A,0,N/A,2026-03-11
+ACT-0006,Construction,Site Preparation,Coordinate access preparation,High,2026-03-02,2026-03-14,2026-03-05,2026-03-18,Completed,100,CONST-A,0,N/A,2026-03-26
+ACT-0007,QA/QC,NCR Follow-up,Follow up corrective action,High,2026-04-16,2026-05-02,2026-04-22,2026-05-19,Completed,100,QC-C,2,N/A,2026-06-01
+ACT-0008,QA/QC,Testing,Conduct functional test,Medium,2026-01-28,2026-01-31,2026-01-31,,In Progress,60,QC-C,1,N/A,2026-02-14
+ACT-0009,QA/QC,Inspection,Conduct quality inspection,High,2026-06-28,2026-07-17,2026-07-02,,In Progress,40,QA-A,1,N/A,2026-07-16
+ACT-0010,Document Control,Transmittal,Track transmittal response,High,2026-05-14,2026-05-19,2026-05-14,,In Progress,25,DOC-A,1,Approved,2026-05-30
+ACT-0011,Construction,Rework,Correct installation issue,Low,2026-04-07,2026-04-18,2026-04-15,2026-04-25,Completed,100,CONST-C,2,N/A,2026-04-27
+ACT-0012,Procurement,Vendor Follow-up,Coordinate supplier action,Medium,2026-05-25,2026-06-01,2026-05-28,,In Progress,30,PROC-B,4,N/A,2026-06-03
+ACT-0013,QA/QC,NCR Follow-up,Verify NCR closure,High,2026-04-30,2026-05-05,2026-05-03,2026-05-12,Completed,100,QA-A,1,N/A,2026-05-12
+ACT-0014,Planning,Schedule Update,Update activity schedule,Low,2026-01-13,2026-01-25,,,Not Started,0,PLAN-A,0,N/A,2026-01-28
+ACT-0015,Construction,Rework,Correct installation issue,High,2026-04-19,2026-04-27,2026-04-20,2026-04-30,Completed,100,CONST-C,3,N/A,2026-05-01
+ACT-0016,Planning,Schedule Update,Update activity schedule,Medium,2026-04-01,2026-04-06,2026-04-03,2026-04-17,Completed,100,PLAN-A,0,N/A,2026-04-24
+ACT-0017,Construction,Installation,Complete field installation,High,2026-05-23,2026-05-25,2026-06-02,2026-05-28,Completed,100,CONST-B,1,N/A,2026-06-03
+ACT-0018,Document Control,Revision Control,Check revision history,Low,2026-04-14,2026-04-24,2026-04-16,,In Progress,75,DOC-A,2,N/A,2026-05-01
+ACT-0019,Engineering,Drawing Revision,Revise issued drawing,Medium,2026-05-23,2026-05-26,2026-05-22,2026-05-23,Completed,100,ENG-A,3,Approved,2026-06-08
+ACT-0020,Procurement,Material Request,Coordinate material requirement,Low,2026-03-06,2026-03-20,2026-03-07,,In Progress,80,PROC-B,0,Pending,2026-03-25
+ACT-0021,Document Control,Revision Control,Maintain revision register,High,2026-03-07,2026-03-17,2026-03-07,2026-03-16,Completed,100,DOC-A,2,N/A,2026-03-18
+ACT-0022,Construction,Installation,Complete field installation,Medium,2026-05-14,2026-05-24,2026-05-16,2026-06-05,Completed,100,CONST-C,0,N/A,2026-06-19
+ACT-0023,Planning,Schedule Update,Update milestone tracker,High,2026-03-22,2026-03-27,2026-03-24,2026-04-01,Completed,100,PLAN-B,1,N/A,2026-04-09
+ACT-0024,Construction,Site Preparation,Prepare work area,High,2026-03-13,2026-03-31,2026-03-22,2026-04-01,COMPLETED,100,CONST-A,1,N/A,2026-04-09
+ACT-0025,Engineering,Drawing Revision,Prepare revised drawing,Critical,2026-02-15,2026-03-03,2026-02-16,2026-03-08,Completed,100,ENG-A,3,Pending,2026-03-25
+ACT-0026,Procurement,Vendor Follow-up,Check vendor document status,Medium,2026-03-24,2026-04-06,2026-03-30,,In Progress,30,PROC-B,2,N/A,2026-04-10
+ACT-0027,Document Control,Revision Control,Update document revision,High,2026-07-28,2026-08-04,2026-07-26,2026-08-07,Completed,100,DOC-B,4,N/A,2026-08-14
+ACT-0028,Engineering,Design Review,Check design compliance,High,2026-05-05,2026-05-14,2026-05-04,,In Progress,30,ENG-B,0,Pending,2026-05-16
+ACT-0029,QA/QC,Inspection,Verify completed installation,Medium,2026-05-15,2026-05-29,2026-05-19,2026-05-30,Completed,100,QA-A,3,N/A,2026-06-07
+ACT-0030,Construction,Site Preparation,Prepare work area,Low,2026-04-26,2026-05-09,2026-04-27,2026-05-29,Completed,100,CONST-A,1,N/A,2026-06-16
+ACT-0031,QA/QC,Test Package Review,Review test package,Medium,2026-05-22,2026-05-30,2026-05-29,2026-06-11,Completed,100,QC-C,0,Approved,2026-06-20
+ACT-0032,QA/QC,Test Package Review,Check package completeness,Medium,2026-03-21,2026-04-09,2026-03-19,,In Progress,80,QA-B,1,Pending,2026-03-19
+ACT-0033,QA/QC,Test Package Review,Validate test records,High,2026-03-28,2026-04-13,2026-04-03,,In Progress,95,QC-C,0,Pending,2026-04-19
+ACT-0034,Construction,Site Preparation,Prepare work area,High,2026-07-16,2026-07-25,2026-07-19,2026-08-09,Completed,100,CONST-B,0,N/A,2026-08-22
+ACT-0035,Construction,Punch List,Resolve outstanding punch item,High,2026-05-11,2026-05-25,2026-05-14,,In Progress,20,CONST-A,2,N/A,2026-05-21
+ACT-0036,Procurement,Purchase Review,Review purchase requirement,Medium,2026-02-05,2026-02-21,2026-02-08,2026-02-22,Completed,100,PROC-B,0,Approved,2026-03-08
+ACT-0037,Procurement,Purchase Review,Review purchase requirement,High,2026-05-06,2026-05-22,2026-05-09,2026-05-25,Completed,100,PROC-B,1,Approved,2026-06-02
+ACT-0038,Engineering,Technical Query,Resolve site technical query,Medium,2026-03-27,2026-04-15,2026-03-25,2026-04-16,Completed,100,ENG-B,0,N/A,2026-04-29
+ACT-0039,QA/QC,Test Package Review,Check package completeness,Low,2026-04-22,2026-05-06,2026-04-25,2026-05-07,Completed,100,QA-B,2,Approved,2026-05-07
+ACT-0040,QA/QC,Test Package Review,Check package completeness,Medium,2026-07-12,2026-07-31,2026-07-10,,In Progress,40,QC-C,1,Pending,2026-07-20
+ACT-0041,Planning,Variance Review,Review delayed activity,Medium,2026-05-04,2026-05-10,2026-05-02,2026-05-10,Completed,100,PLAN-B,2,N/A,2026-05-12
+ACT-0042,Engineering,Material Review,Review material submittal,Low,2026-04-12,2026-04-24,2026-04-11,2026-05-10,Completed,100,ENG-A,2,Approved,2026-05-18
+ACT-0043,Construction,Installation,Install project component,Medium,2026-01-22,2026-01-25,2026-01-27,2026-02-02,Completed,100,CONST-B,0,N/A,2026-02-06
+ACT-0044,Planning,Progress Review,Validate reported progress,High,2026-07-20,2026-08-02,2026-07-18,2026-07-28,Completed,100,PLAN-A,3,N/A,2026-08-06
+ACT-0045,Construction,Site Preparation,Coordinate access preparation,High,2026-04-11,2026-04-25,2026-04-16,,In Progress,95,CONST-C,2,N/A,2026-04-19
+ACT-0046,Procurement,Delivery Tracking,Update delivery schedule,Medium,2026-04-09,2026-04-13,2026-04-18,2026-05-03,Completed,100,PROC-B,0,N/A,2026-05-14
+ACT-0047,Planning,Variance Review,Analyze schedule variance,High,2026-06-20,2026-06-30,2026-06-18,,In Progress,70,PLAN-B,1,N/A,2026-07-06
+ACT-0048,QA/QC,Testing,Conduct functional test,Medium,2026-04-30,2026-05-09,2026-04-28,2026-05-10,Completed,100,QA-A,1,N/A,2026-05-20
+ACT-0049,Construction,Site Preparation,Complete site readiness activity,Medium,2026-06-06,2026-06-16,2026-06-06,2026-06-25,Completed,100,CONST-A,1,N/A,2026-07-12
+ACT-0050,Planning,Variance Review,Investigate progress variance,High,2026-01-28,2026-02-08,2026-01-28,2026-02-05,Completed,100,PLAN-B,1,N/A,2026-02-21
+ACT-0051,Construction,Site Preparation,Complete site readiness activity,High,2026-03-15,2026-03-26,2026-03-20,2026-04-08,Completed,100,CONST-A,1,N/A,2026-04-13
+ACT-0052,QA/QC,Test Package Review,Check package completeness,High,2026-07-18,2026-08-05,2026-07-27,2026-08-10,Completed,100,QA-B,1,Approved,2026-08-21
+ACT-0053,Engineering,Design Review,Review technical specification,Medium,2026-02-06,2026-02-23,2026-02-10,2026-02-28,Completed,100,ENG-B,0,Pending,2026-03-08
+ACT-0054,Engineering,Design Review,Check design compliance,Medium,2026-06-01,2026-06-04,2026-06-06,2026-05-22,Completed,100,ENG-C,0,Approved,2026-06-04
+ACT-0055,Construction,Punch List,Resolve outstanding punch item,Medium,2026-04-28,2026-05-09,2026-05-04,,In Progress,95,CONST-C,0,N/A,2026-05-10
+ACT-0056,QA/QC,Inspection,Perform site inspection,,2026-05-26,2026-05-30,2026-05-28,2026-06-02,completed,100,QC-C,0,N/A,2026-06-11
+ACT-0057,QA/QC,Test Package Review,Review test package,High,2026-03-13,2026-04-02,2026-03-12,,In Progress,75,QA-A,0,Pending,2026-03-20
+ACT-0058,Engineering,Drawing Revision,Update drawing comments,High,2026-05-30,2026-06-10,2026-05-29,2026-06-16,Completed,100,ENG-A,0,Approved,2026-06-30
+ACT-0059,Construction,Rework,Rectify field discrepancy,Medium,2026-03-10,2026-03-12,2026-03-20,2026-03-18,Completed,100,CONST-C,4,N/A,2026-03-26
+ACT-0060,Engineering,Drawing Revision,Update drawing comments,Medium,2026-04-28,2026-05-08,2026-04-26,2026-05-08,Completed,100,ENG-B,0,Approved,2026-05-18
+ACT-0061,Planning,Progress Review,Validate reported progress,Medium,2026-05-11,2026-05-22,2026-05-09,2026-06-01,Completed,100,PLAN-B,0,N/A,2026-06-09
+ACT-0062,Engineering,Material Review,Check technical datasheet,High,2026-01-05,2026-01-24,2026-01-11,,In Progress,70,ENG-A,2,Pending,2026-01-28
+ACT-0063,Document Control,Approval Tracking,Update approval register,Medium,2026-01-12,2026-01-21,2026-01-14,2026-02-02,Completed,100,DOC-B,0,Approved,2026-02-05
+ACT-0064,Document Control,Revision Control,Check revision history,Critical,2026-03-20,2026-04-07,2026-03-21,2026-04-03,completed,100,DOC-B,1,N/A,2026-04-07
+ACT-0065,Engineering,Drawing Revision,Revise issued drawing,Medium,2026-07-26,2026-08-10,2026-07-28,,In Progress,10,ENG-C,0,Pending,2026-08-15
+ACT-0066,Document Control,Approval Tracking,Track pending approval,Medium,2026-05-08,2026-05-21,2026-05-09,,In Progress,95,DOC-A,0,Pending,2026-05-22
+ACT-0067,qa/qc,Test Package Review,Validate test records,Critical,2026-04-12,2026-04-26,2026-04-11,,In Progress,25,QC-C,1,Pending,2026-04-27
+ACT-0068,QA/QC,Inspection,Verify completed installation,Low,2026-05-01,2026-05-03,2026-04-29,2026-05-16,Completed,100,QA-B,1,N/A,2026-05-24
+ACT-0069,Construction,Rework,Rectify field discrepancy,Low,2026-03-30,2026-04-18,2026-03-30,,In Progress,10,CONST-C,1,N/A,2026-04-06
+ACT-0070,Planning,Lookahead Planning,Prepare lookahead plan,High,2026-04-26,2026-05-01,2026-05-02,,In Progress,25,PLAN-A,2,N/A,2026-05-02
+ACT-0071,QA/QC,Inspection,Verify completed installation,Medium,2026-04-25,2026-05-01,2026-04-23,2026-05-14,Completed,100,QC-C,0,N/A,2026-05-26
+ACT-0072,Planning,Variance Review,Review delayed activity,Medium,2026-05-03,2026-05-13,2026-05-01,2026-05-02,Completed,100,PLAN-A,0,N/A,2026-05-19
+ACT-0073,Engineering,Technical Query,Respond to engineering query,Medium,2026-04-23,2026-05-03,2026-04-21,,In Progress,60,ENG-B,1,N/A,2026-05-09
+ACT-0074,Document Control,Transmittal,Prepare document transmittal,Critical,2026-06-22,2026-07-06,2026-07-07,2026-07-05,Completed,100,DOC-B,0,Approved,2026-07-20
+ACT-0075,Procurement,Vendor Follow-up,Coordinate supplier action,High,2026-03-02,2026-03-10,2026-02-28,,In Progress,90,PROC-A,2,N/A,2026-03-04
+ACT-0076,Document Control,Document Submission,Prepare document for submission,High,2026-01-13,2026-02-02,2026-01-20,2026-02-18,Completed,100,DOC-B,1,Approved,2026-03-07
+ACT-0077,Construction,Site Preparation,Prepare work area,Medium,2026-05-08,2026-05-19,2026-05-10,,In Progress,30,CONST-C,3,N/A,2026-05-22
+ACT-0078,QA/QC,Test Package Review,Review test package,Medium,2026-02-05,2026-02-21,2026-02-09,,In Progress,60,QC-C,3,Rejected,2026-02-12
+ACT-0079,QA/QC,Inspection,Conduct quality inspection,High,2026-05-28,2026-06-09,2026-05-30,,In Progress,40,QA-A,2,N/A,2026-06-02
+ACT-0080,Engineering,Design Review,Check design compliance,Critical,2026-02-03,2026-02-08,2026-02-06,2026-02-08,Completed,100,ENG-B,4,Approved,2026-02-25
+ACT-0081,Construction,Punch List,Verify punch completion,High,2026-05-10,2026-05-25,2026-05-15,2026-06-01,Completed,100,CONST-B,1,N/A,2026-06-08
+ACT-0082,Engineering,Technical Query,Respond to engineering query,Critical,2026-06-19,2026-07-02,,,Not Started,0,ENG-B,0,N/A,2026-06-22
+ACT-0083,Engineering,Drawing Revision,Prepare revised drawing,High,2026-01-10,2026-01-13,2026-01-10,2026-01-25,Completed,100,ENG-C,0,Approved,2026-01-31
+ACT-0084,QA/QC,Testing,Perform pressure test,High,2026-07-25,2026-07-27,2026-07-31,,In Progress,75,QA-A,0,N/A,2026-08-05
+ACT-0085,Planning,Schedule Update,Update activity schedule,Low,2026-07-26,2026-08-04,2026-07-30,2026-08-07,Completed,100,PLAN-A,1,N/A,2026-08-10
+ACT-0086,Construction,Site Preparation,Coordinate access preparation,High,2026-04-30,2026-05-18,2026-04-29,,In Progress,40,CONST-A,1,N/A,2026-04-29
+ACT-0087,Document Control,Approval Tracking,Follow up document approval,High,2026-05-10,2026-05-26,,,Not Started,0,DOC-A,0,Pending,2026-05-12
+ACT-0088,qa/qc,NCR Follow-up,Verify NCR closure,Critical,2026-05-20,2026-05-31,2026-05-19,,In Progress,95,QC-C,0,N/A,2026-06-05
+ACT-0089,Document Control,Approval Tracking,Follow up document approval,High,2026-04-20,2026-05-02,2026-04-18,2026-05-13,Completed,100,DOC-B,0,Approved,2026-05-17
+ACT-0090,Engineering,Design Review,Review engineering drawing,Medium,2026-07-14,2026-07-27,2026-07-12,2026-07-28,Completed,100,ENG-C,0,Approved,2026-08-08
+ACT-0091,Document Control,Approval Tracking,Update approval register,Low,2026-03-19,2026-03-30,2026-03-18,,In Progress,20,DOC-B,1,Pending,2026-03-21
+ACT-0092,Construction,Rework,Rectify field discrepancy,Critical,2026-06-13,2026-07-02,,,Not Started,0,CONST-A,4,N/A,2026-06-21
+ACT-0093,Engineering,Technical Query,Clarify design requirement,Medium,2026-02-20,2026-02-26,2026-02-20,2026-03-10,Completed,100,ENG-A,0,N/A,2026-03-26
+ACT-0094,QA/QC,Test Package Review,Check package completeness,Medium,2026-03-25,2026-04-06,2026-03-31,2026-04-15,Completed,100,QA-B,0,Approved,2026-04-17
+ACT-0095,Construction,Rework,Complete required rework,,2026-04-21,2026-05-01,2026-04-25,2026-05-08,Completed,100,CONST-B,2,N/A,2026-05-26
+ACT-0096,Construction,Site Preparation,Prepare work area,Medium,2026-06-07,2026-06-10,,,Not Started,0,CONST-A,0,N/A,2026-06-13
+ACT-0097,Procurement,Delivery Tracking,Confirm delivery status,Low,2026-05-12,2026-05-27,2026-05-17,2026-06-05,Completed,100,PROC-A,3,N/A,2026-06-16
+ACT-0098,QA/QC,Inspection,Verify completed installation,Low,2026-01-24,2026-02-05,2026-01-22,2026-02-09,Completed,100,QA-B,0,N/A,2026-02-09
+ACT-0099,Engineering,Material Review,Check technical datasheet,Critical,2026-01-27,2026-02-11,2026-01-25,2026-02-08,Completed,100,ENG-A,1,Approved,2026-02-18
+ACT-0100,QA/QC,Testing,Conduct functional test,Medium,2026-02-03,2026-02-21,2026-02-03,,In Progress,95,QA-A,4,N/A,2026-02-07
+ACT-0101,Engineering,Technical Query,Resolve site technical query,Medium,2026-02-13,2026-02-17,2026-02-15,,In Progress,70,ENG-C,2,N/A,2026-03-05
+ACT-0102,Construction,Site Preparation,Coordinate access preparation,Medium,2026-04-27,2026-05-01,2026-04-26,,In Progress,80,CONST-A,0,N/A,2026-05-12
+ACT-0103,QA/QC,Test Package Review,Review test package,Low,2026-03-19,2026-03-23,2026-03-23,2026-03-29,Completed,100,QA-B,1,Approved,2026-03-30
+ACT-0104,Document Control,Revision Control,Check revision history,High,2026-05-13,2026-05-19,2026-05-11,,In Progress,20,DOC-A,1,N/A,2026-05-16
+ACT-0105,QA/QC,Test Package Review,Check package completeness,Medium,2026-06-10,2026-06-17,2026-06-14,,In Progress,50,QA-A,2,Pending,2026-06-24
+ACT-0106,QA/QC,Test Package Review,Check package completeness,Medium,2026-06-22,2026-06-28,2026-06-22,2026-07-02,Completed,100,QA-A,4,Approved,2026-07-14
+ACT-0107,Construction,Installation,Install project component,Medium,2026-06-18,2026-06-30,2026-06-18,,In Progress,75,CONST-C,0,N/A,2026-07-01
+ACT-0108,QA/QC,NCR Follow-up,Verify NCR closure,Medium,2026-02-28,2026-03-12,2026-02-26,2026-03-19,Completed,100,QC-C,0,N/A,2026-03-22
+ACT-0109,Procurement,Material Request,Coordinate material requirement,Medium,2026-07-20,2026-07-26,2026-07-26,2026-08-12,Completed,100,PROC-B,1,Pending,2026-08-22
+ACT-0110,QA/QC,Testing,Perform pressure test,High,2026-07-16,2026-08-01,2026-07-23,2026-08-21,Completed,100,QC-C,3,N/A,2026-08-20
+ACT-0111,document control,Approval Tracking,Follow up document approval,High,2026-07-23,2026-08-06,2026-07-23,,In Progress,30,DOC-A,2,Pending,2026-07-31
+ACT-0112,Planning ,Lookahead Planning,Update short-term plan,Critical,2026-07-06,2026-07-24,2026-07-06,2026-08-09,Completed,100,PLAN-B,3,N/A,2026-08-13
+ACT-0113,Engineering,Drawing Revision,Update drawing comments,High,2026-01-11,2026-01-26,,,Not Started,0,ENG-B,1,Pending,2026-01-13
+ACT-0114,QA/QC,NCR Follow-up,Follow up corrective action,High,2026-06-20,2026-07-02,2026-06-24,,In Progress,25,QA-B,2,N/A,2026-07-09
+ACT-0115,Construction,Installation,Complete field installation,Medium,2026-02-12,2026-03-03,2026-02-17,,In Progress,40,CONST-A,0,N/A,2026-02-20
+ACT-0116,QA/QC,Test Package Review,Review test package,Low,2026-05-12,2026-05-31,,,Not Started,0,QA-B,1,Pending,2026-05-16
+ACT-0117,Construction,Site Preparation,Prepare work area,Medium,2026-02-21,2026-02-25,2026-02-19,2026-03-22,Completed,100,CONST-C,2,N/A,2026-04-07
+ACT-0118,Engineering,Material Review,Review material submittal,High,2026-04-10,2026-04-20,2026-04-10,2026-04-27,Completed,100,ENG-C,2,Approved,2026-05-15
+ACT-0119,Procurement,Vendor Follow-up,Follow up vendor response,Medium,2026-04-01,2026-04-08,2026-04-01,2026-03-31,Completed,100,PROC-A,0,N/A,2026-04-04
+ACT-0120,Planning,Variance Review,Analyze schedule variance,Medium,2026-01-16,2026-01-24,2026-01-16,2026-02-02,Completed,100,PLAN-B,3,N/A,2026-02-17
+ACT-0121,Engineering,Drawing Revision,Update drawing comments,Medium,2026-07-23,2026-07-26,2026-07-23,2026-08-03,Completed,100,ENG-B,3,Approved,2026-08-15
+ACT-0121,Document Control,Approval Tracking,Update approval register,Medium,2026-07-28,2026-08-15,2026-08-01,,In Progress,25,DOC-B,1,Pending,2026-08-03
+ACT-0123,Planning,Lookahead Planning,Review upcoming activities,High,2026-04-24,2026-05-01,2026-04-27,2026-05-19,Completed,100,PLAN-B,1,N/A,2026-06-01
+ACT-0124,Construction,Installation,Complete field installation,High,2026-04-18,2026-05-01,2026-04-23,,In Progress,10,CONST-A,0,N/A,2026-05-07
+ACT-0125,Engineering,Drawing Revision,Prepare revised drawing,Medium,2026-04-13,2026-05-03,,,Not Started,0,ENG-B,0,Pending,2026-04-24
+ACT-0126,Construction,Installation,Execute planned installation,Medium,2026-04-08,2026-04-22,2026-04-09,2026-05-22,Completed,100,CONST-B,0,N/A,2026-06-07
+ACT-0127,Document Control,Document Submission,Prepare document for submission,High,2026-07-04,2026-07-20,2026-07-02,,In Progress,25,DOC-A,3,Pending,2026-07-16
+ACT-0128,Procurement,Delivery Tracking,Update delivery schedule,Medium,2026-01-21,2026-02-09,2026-01-21,,In Progress,95,PROC-B,2,N/A,2026-01-26
+ACT-0129,Construction,Installation,Complete field installation,High,2026-03-06,2026-03-23,,,Not Started,0,CONST-B,1,N/A,2026-03-17
+ACT-0130,Procurement,Vendor Follow-up,Coordinate supplier action,High,2026-01-21,2026-02-01,2026-01-24,2026-02-04,Completed,100,PROC-A,1,N/A,2026-02-22
+ACT-0131,Engineering,Technical Query,Respond to engineering query,Low,2026-05-04,2026-05-22,2026-05-10,,In Progress,25,ENG-A,1,N/A,2026-05-11
+ACT-0132,Construction,Site Preparation,Prepare work area,Medium,2026-07-05,2026-07-14,2026-07-04,,In Progress,20,CONST-B,0,N/A,2026-07-21
+ACT-0133,Engineering,Technical Query,Respond to engineering query,Medium,2026-05-13,2026-05-20,2026-05-13,,In Progress,50,ENG-A,3,N/A,2026-05-31
+ACT-0134,Procurement,Material Request,Prepare material request,Low,2026-06-18,2026-07-08,2026-06-20,2026-07-10,Completed,100,PROC-B,0,Pending,2026-07-27
+ACT-0135,Planning,Lookahead Planning,Review upcoming activities,Medium,2026-06-29,2026-07-13,2026-06-28,2026-07-24,Completed,100,PLAN-B,1,N/A,2026-07-30
+ACT-0136,Construction,Site Preparation,Coordinate access preparation,Medium,2026-04-03,2026-04-17,2026-04-07,2026-04-20,Completed,100,CONST-B,1,N/A,2026-04-28
+ACT-0137,QA/QC,Inspection,Perform site inspection,Medium,2026-04-13,2026-04-28,2026-04-14,,In Progress,50,QA-A,4,N/A,2026-04-24
+ACT-0138,Procurement,Purchase Review,Check purchase documentation,Medium,2026-03-24,2026-04-10,,,Not Started,0,PROC-A,4,Pending,2026-03-31
+ACT-0139,Construction,Installation,Complete field installation,Medium,2026-06-06,2026-06-23,2026-06-11,2026-07-03,Completed,100,CONST-B,0,N/A,2026-07-14
+ACT-0140,QA/QC,Test Package Review,Review test package,Medium,2026-02-23,2026-03-08,2026-03-01,,In Progress,80,QA-B,2,Pending,2026-03-04
+ACT-0141,QA/QC,NCR Follow-up,Review corrective evidence,Critical,2026-07-17,2026-07-23,2026-07-21,2026-07-27,Completed,100,QA-B,0,N/A,2026-08-06
+ACT-0142,Construction,Punch List,Resolve outstanding punch item,High,2026-02-09,2026-02-21,2026-02-12,2026-02-22,Completed,100,CONST-B,3,N/A,2026-03-12
+ACT-0143,Construction,Rework,Rectify field discrepancy,Medium,2026-05-06,2026-05-08,2026-05-12,,In Progress,80,CONST-C,0,N/A,2026-05-12
+ACT-0144,Construction,Punch List,Resolve outstanding punch item,Low,2026-05-07,2026-05-14,2026-05-09,2026-05-11,Completed,100,CONST-A,3,N/A,2026-05-18
+ACT-0145,Construction,Installation,Complete field installation,Low,2026-03-26,2026-04-10,2026-03-27,,In Progress,95,CONST-C,2,N/A,2026-03-31
+ACT-0146,QA/QC,NCR Follow-up,Review corrective evidence,Medium,2026-04-11,2026-04-23,2026-04-10,2026-04-21,Completed,100,QC-C,2,N/A,2026-04-29
+ACT-0147,Construction,Punch List,Verify punch completion,Medium,2026-03-03,2026-03-14,2026-03-05,,In Progress,70,CONST-C,0,N/A,2026-03-16
+ACT-0148,Document Control,Transmittal,Issue transmittal record,Medium,2026-06-27,2026-07-16,2026-07-05,,In Progress,40,DOC-B,0,Rejected,2026-07-07
+ACT-0149,Document Control,Transmittal,Track transmittal response,Medium,2026-02-25,2026-03-16,2026-02-25,2026-03-19,Completed,100,DOC-A,2,Approved,2026-03-20
+ACT-0150,Construction,Installation,Complete field installation,Medium,2026-07-07,2026-07-24,2026-07-12,,On Hold,50,CONST-B,5,N/A,2026-07-17
+ACT-0151,Planning,Variance Review,Investigate progress variance,High,2026-07-17,2026-07-28,2026-07-15,2026-07-18,Completed,100,PLAN-A,1,N/A,2026-08-04
+ACT-0152,Document Control,Revision Control,Check revision history,High,2026-02-19,2026-02-22,2026-02-17,,In Progress,40,DOC-B,3,N/A,2026-02-17
+ACT-0153,Construction,Installation,Install project component,Medium,2026-06-18,2026-07-07,2026-06-24,,In Progress,75,CONST-A,1,N/A,2026-06-30
+ACT-0154,QA/QC,Test Package Review,Validate test records,Medium,2026-02-21,2026-02-23,2026-02-24,,In Progress,90,QA-B,3,Approved,2026-03-12
+ACT-0155,Engineering,Design Review,Review engineering drawing,Critical,2026-05-07,2026-05-19,2026-05-05,2026-05-18,Completed,100,ENG-C,0,APPROVED,2026-06-05
+ACT-0156,Construction,Site Preparation,Coordinate access preparation,Medium,2026-03-06,2026-03-09,2026-03-12,2026-03-25,Completed,100,CONST-C,4,N/A,2026-04-03
+ACT-0157,Engineering,Technical Query,Clarify design requirement,High,2026-03-02,2026-03-08,2026-03-08,2026-03-20,Completed,100,ENG-C,2,N/A,2026-04-04
+ACT-0158,Procurement,Vendor Follow-up,Follow up vendor response,High,2026-06-06,2026-06-10,2026-06-09,2026-06-10,Completed,100,PROC-A,0,N/A,2026-06-27
+ACT-0159,Construction,Punch List,Close punch item,Medium,2026-05-18,2026-06-03,2026-05-28,2026-06-09,Completed,100,CONST-B,1,N/A,2026-06-10
+ACT-0160,Engineering,Material Review,Validate material specification,Medium,2026-05-28,2026-06-13,2026-05-28,2026-06-24,Completed,100,ENG-A,0,Approved,2026-06-26
+ACT-0161,Construction,Installation,Execute planned installation,Critical,2026-01-22,2026-02-08,,,Not Started,0,CONST-C,1,N/A,2026-01-26
+ACT-0162,Document Control,Approval Tracking,Follow up document approval,Critical,2026-04-12,2026-04-28,2026-04-13,,In Progress,90,DOC-B,4,Approved,2026-04-17
+ACT-0163,Engineering,Material Review,Check technical datasheet,Medium,2026-03-03,2026-03-05,2026-03-09,,In Progress,60,ENG-A,3,Pending,2026-03-20
+ACT-0164,QA/QC,Inspection,Perform site inspection,High,2026-04-22,2026-04-24,2026-04-23,2026-04-24,Completed,100,QA-A,2,N/A,2026-04-25
+ACT-0165,Procurement,Purchase Review,Validate procurement status,Medium,2026-03-01,2026-03-04,2026-03-02,,In Progress,95,PROC-A,1,Pending,2026-03-12
+ACT-0166,QA/QC,Testing,Complete system testing,Medium,2026-04-20,2026-05-01,2026-04-18,,In Progress,90,QA-A,1,N/A,2026-05-03
+ACT-0167,Document Control,Approval Tracking,Update approval register,Medium,2026-04-21,2026-05-06,2026-04-21,2026-05-10,Completed,100,DOC-B,3,Approved,2026-05-14
+ACT-0168,Document Control,Approval Tracking,Follow up document approval,Medium,2026-02-08,2026-02-22,2026-02-06,2026-02-16,Completed,100,DOC-A,3,Approved,2026-02-22
+ACT-0169,QA/QC,Inspection,Perform site inspection,,2026-07-18,2026-08-07,2026-07-16,,In Progress,50,QA-A,0,N/A,2026-07-16
+ACT-0170,Document Control,Document Submission,Issue controlled document,Critical,2026-05-07,2026-05-16,2026-05-07,2026-05-13,Completed,100,DOC-B,0,Approved,2026-05-27
+ACT-0171,QA/QC,NCR Follow-up,Review corrective evidence,High,2026-05-04,2026-05-09,2026-05-05,2026-05-03,Completed,100,QA-B,0,N/A,2026-05-13
+ACT-0172,Engineering,Drawing Revision,Prepare revised drawing,Medium,2026-03-12,2026-03-31,2026-03-11,2026-04-01,Completed,100,ENG-B,0,Approved,2026-04-08
+ACT-0173,Construction,Site Preparation,Complete site readiness activity,High,2026-05-10,2026-05-27,2026-05-12,2026-05-29,Completed,100,CONST-C,1,N/A,2026-06-03
+ACT-0174,Document Control,Document Submission,Issue controlled document,Low,2026-01-24,2026-01-27,2026-01-22,2026-02-08,Completed,100,DOC-B,2,Approved,2026-02-24
+ACT-0175,QA/QC,Test Package Review,Validate test records,Medium,2026-01-06,2026-01-25,2026-01-13,2026-02-01,Completed,100,QA-A,5,Approved,2026-02-14
+ACT-0176,Engineering,Design Review,Review technical specification,Medium,2026-02-23,2026-03-13,2026-02-21,2026-03-29,Completed,100,ENG-C,4,Approved,2026-04-05
+ACT-0177,QA/QC,Inspection,Conduct quality inspection,Critical,2026-06-20,2026-06-23,2026-06-19,2026-07-06,Completed,100,QA-A,0,N/A,2026-07-11
+ACT-0178,Construction,Rework,Rectify field discrepancy,High,2026-05-29,2026-06-03,2026-06-03,,In Progress,80,CONST-A,1,N/A,2026-06-04
+ACT-0179,Planning,Lookahead Planning,Update short-term plan,Medium,2026-01-13,2026-01-20,2026-01-13,2026-02-02,Completed,100,PLAN-A,2,N/A,2026-02-14
+ACT-0180,QA/QC,Testing,Complete system testing,High,2026-04-14,2026-05-03,2026-04-15,,In Progress,95,QC-C,2,N/A,2026-05-01
+ACT-0181,Document Control,Document Submission,Submit project document,Medium,2026-01-24,2026-02-05,2026-01-22,,In Progress,90,DOC-A,0,Rejected,2026-02-06
+ACT-0182,QA/QC,Test Package Review,Check package completeness,Medium,2026-06-03,2026-06-17,2026-06-02,,In Progress,95,QC-C,0,Pending,2026-06-14
+ACT-0183,Procurement,Vendor Follow-up,Coordinate supplier action,Medium,2026-04-07,2026-04-12,2026-04-15,,In Progress,20,PROC-B,0,N/A,2026-04-29
+ACT-0184,Engineering,Design Review,Check design compliance,Medium,2026-06-06,2026-06-18,2026-06-06,2026-06-12,Completed,100,ENG-C,2,Approved,2026-06-19
+ACT-0185,Construction ,Rework,Correct installation issue,Medium,2026-03-23,2026-04-02,2026-03-29,2026-04-04,Completed,100,CONST-B,1,N/A,2026-04-06
+ACT-0186,QA/QC,Testing,Complete system testing,High,2026-06-06,2026-06-14,2026-06-10,2026-06-29,Completed,100,QA-B,3,N/A,2026-07-11
+ACT-0187,Construction,Rework,Rectify field discrepancy,Critical,2026-02-08,2026-02-19,2026-02-11,,In Progress,50,CONST-B,0,N/A,2026-02-23
+ACT-0188,QA/QC,Test Package Review,Validate test records,High,2026-03-29,2026-04-12,2026-04-01,,In Progress,75,QC-C,0,Approved,2026-04-01
+ACT-0189,Construction,Punch List,Verify punch completion,,2026-07-01,2026-07-05,2026-07-01,,In Progress,70,CONST-A,0,N/A,2026-07-10
+ACT-0190,QA/QC,Testing,Complete system testing,Medium,2026-04-11,2026-04-15,2026-04-10,2026-04-15,Completed,100,QC-C,4,N/A,2026-04-28
+ACT-0191,Engineering,Technical Query,Respond to engineering query,High,2026-05-22,2026-05-26,2026-05-23,2026-06-11,Completed,100,ENG-C,1,N/A,2026-06-29
+ACT-0192,Planning,Variance Review,Investigate progress variance,Critical,2026-04-25,2026-04-30,,,Not Started,0,PLAN-A,0,N/A,2026-05-11
+ACT-0193,Construction,Rework,Complete required rework,High,2026-06-04,2026-06-22,2026-06-11,2026-07-01,Completed,100,CONST-A,4,N/A,2026-07-03
+ACT-0194,Procurement,Vendor Follow-up,Check vendor document status,Medium,2026-05-01,2026-05-09,2026-05-03,,In Progress,20,PROC-A,0,N/A,2026-05-06
+ACT-0195,Procurement,Material Request,Coordinate material requirement,High,2026-07-13,2026-07-22,2026-07-18,2026-07-29,Completed,100,PROC-A,1,Approved,2026-08-03
+ACT-0196,Planning,Variance Review,Investigate progress variance,Low,2026-06-11,2026-06-19,2026-06-15,2026-06-27,Completed,100,PLAN-A,0,N/A,2026-06-29
+ACT-0197,Procurement,Vendor Follow-up,Check vendor document status,Medium,2026-05-02,2026-05-07,2026-05-06,,In Progress,90,PROC-B,0,N/A,2026-05-18
+ACT-0198,Construction,Site Preparation,Complete site readiness activity,High,2026-06-12,2026-06-19,2026-06-14,,In Progress,25,CONST-B,0,N/A,2026-06-21
+ACT-0199,Engineering,Technical Query,Respond to engineering query,Medium,2026-04-14,2026-04-29,2026-04-13,2026-04-26,Completed,100,ENG-C,1,N/A,2026-05-01
+ACT-0200,Engineering,Technical Query,Resolve site technical query,Medium,2026-04-30,2026-05-03,2026-05-03,,In Progress,30,ENG-C,3,N/A,2026-05-20
+ACT-0201,Planning,Variance Review,Review delayed activity,Medium,2026-07-05,2026-07-21,2026-07-06,,In Progress,40,PLAN-A,0,N/A,2026-07-15
+ACT-0202,Procurement,Purchase Review,Check purchase documentation,Medium,2026-05-31,2026-06-05,2026-06-04,2026-06-26,Completed,100,PROC-A,2,Approved,2026-07-10
+ACT-0203,Document Control,Document Submission,Issue controlled document,High,2026-07-16,2026-07-25,2026-07-17,,In Progress,50,DOC-A,3,Pending,2026-07-20
+ACT-0204,QA/QC,NCR Follow-up,,High,2026-04-24,2026-05-01,2026-04-27,,In Progress,75,QA-A,0,N/A,2026-05-14
+ACT-0205,QA/QC ,NCR Follow-up,Verify NCR closure,Medium,2026-05-16,2026-05-21,2026-05-14,,In Progress,10,QC-C,5,N/A,2026-05-18
+ACT-0206,Document Control,Revision Control,Update document revision,High,2026-03-09,2026-03-23,2026-03-08,2026-03-24,Completed,100,DOC-B,1,N/A,2026-03-26
+ACT-0207,Construction,Site Preparation,Coordinate access preparation,Critical,2026-04-09,2026-04-25,2026-04-12,,In Progress,95,CONST-A,5,N/A,2026-04-23
+ACT-0208,Procurement,Purchase Review,Review purchase requirement,Critical,2026-02-28,2026-03-17,2026-03-04,,In Progress,80,PROC-A,0,Approved,2026-03-14
+ACT-0209,Engineering,Material Review,Review material submittal,Medium,2026-02-14,2026-03-02,2026-02-19,,In Progress,90,ENG-A,0,Approved,2026-02-27
+ACT-0210,Planning,Lookahead Planning,Prepare lookahead plan,Medium,2026-06-20,2026-06-27,,,Not Started,0,PLAN-B,1,N/A,2026-06-27
+ACT-0211,Planning,Schedule Update,Update activity schedule,Medium,2026-01-24,2026-01-30,2026-01-24,2026-02-01,Completed,100,PLAN-B,0,N/A,2026-02-04
+ACT-0212,Planning,Variance Review,Analyze schedule variance,Medium,2026-01-27,2026-02-01,2026-01-28,2026-02-01,Completed,100,PLAN-A,3,N/A,2026-02-05
+ACT-0213,Engineering,Design Review,Review technical specification,High,2026-04-27,2026-05-10,2026-05-02,,In Progress,60,ENG-A,1,Pending,2026-05-08
+ACT-0214,Document Control,Revision Control,Update document revision,High,2026-04-13,2026-04-26,2026-04-13,2026-05-04,Completed,100,DOC-B,0,N/A,2026-05-21
+ACT-0215,Procurement,Material Request,Coordinate material requirement,High,2026-02-26,2026-03-16,2026-03-03,,In Progress,30,PROC-A,1,Pending,2026-03-18
+ACT-0216,Construction,Installation,Install project component,Critical,2026-02-07,2026-02-21,2026-02-14,2026-02-22,Completed,100,CONST-A,2,N/A,2026-02-24
+ACT-0217,Construction,Installation,Install project component,Medium,2026-01-20,2026-02-03,2026-01-27,,In Progress ,60,CONST-A,1,N/A,2026-02-08
+ACT-0218,Planning,Progress Review,Validate reported progress,Low,2026-01-25,2026-02-12,2026-01-28,2026-02-14,Completed,100,PLAN-B,1,N/A,2026-02-16
+ACT-0219,Planning,Progress Review,Review weekly progress,Medium,2026-04-26,2026-05-01,2026-04-25,,In Progress ,20,PLAN-A,0,N/A,2026-04-29
+ACT-0220,Engineering,Technical Query,Respond to engineering query,Medium,2026-07-08,2026-07-18,2026-07-08,2026-07-24,Completed,100,ENG-B,3,N/A,2026-07-24
+ACT-0221,Procurement,Delivery Tracking,Update delivery schedule,Low,2026-07-06,2026-07-26,2026-07-06,2026-08-04,Completed,100,PROC-B,3,N/A,2026-08-09
+ACT-0222,Engineering,Design Review,Review technical specification,High,2026-02-03,2026-02-12,2026-02-04,2026-02-17,Completed,100,ENG-A,0,Approved,2026-02-21
+ACT-0223,Document Control,Document Submission,Issue controlled document,High,2026-07-06,2026-07-21,2026-07-06,2026-07-31,Completed,100,DOC-A,3,Approved,2026-08-03
+ACT-0224,Engineering,Design Review,Check design compliance,Low,2026-05-04,2026-05-15,2026-05-04,2026-05-27,Completed,100,ENG-C,1,Approved,2026-06-05
+ACT-0225,Construction,Rework,Complete required rework,High,2026-05-11,2026-05-19,2026-05-16,2026-05-30,Completed,100,CONST-A,4,N/A,2026-05-30
+ACT-0226,Construction,Installation,Install project component,Low,2026-06-22,2026-07-06,2026-06-23,,In Progress,75,CONST-B,5,N/A,2026-07-06
+ACT-0227,Document Control,Revision Control,Maintain revision register,Medium,2026-01-16,2026-01-25,2026-01-14,2026-01-27,Completed,100,DOC-A,5,N/A,2026-01-29
+ACT-0228,Construction,Rework,Correct installation issue,High,2026-01-20,2026-02-04,2026-01-25,,In Progress,60,CONST-B,2,N/A,2026-02-04
+ACT-0229,Construction,Punch List,Close punch item,Critical,2026-02-08,2026-02-28,2026-02-13,2026-03-03,Completed,100,CONST-A,0,N/A,2026-03-14
+ACT-0230,Construction,Rework,Complete required rework,High,2026-01-28,2026-02-04,2026-02-01,2026-02-10,Completed,100,CONST-A,0,N/A,2026-02-20
+ACT-0231,Engineering,Drawing Revision,Update drawing comments,Medium,2026-01-17,2026-01-28,2026-01-15,,On Hold,40,ENG-A,3,Pending,2026-02-01
+ACT-0232,Engineering,Design Review,Review engineering drawing,Medium,2026-01-20,2026-01-29,2026-01-23,,In Progress,80,ENG-A,1,Approved,2026-01-25
+ACT-0233,Document Control,Revision Control,Maintain revision register,Medium,2026-02-06,2026-02-10,2026-02-04,,In Progress,10,DOC-A,4,N/A,2026-02-05
+ACT-0234,Document Control,Approval Tracking,Update approval register,Medium,2026-01-12,2026-01-26,2026-01-14,2026-02-03,Completed,100,DOC-A,0,Pending,2026-02-04
+ACT-0235,Planning,Variance Review,Investigate progress variance,High,2026-05-07,2026-05-10,2026-05-05,,In Progress,30,PLAN-A,2,N/A,2026-05-22
+ACT-0236,Document Control,Transmittal,Issue transmittal record,Medium,2026-05-09,2026-05-22,2026-05-13,2026-05-22,Completed,100,DOC-A,0,Approved,2026-05-30
+ACT-0237,Procurement,Purchase Review,Check purchase documentation,Medium,2026-06-03,2026-06-12,2026-06-08,2026-06-20,Completed,100,PROC-A,3,Pending,2026-06-21
+ACT-0238,Construction,Rework,Complete required rework,Critical,2026-02-18,2026-02-25,2026-02-18,2026-03-06,Completed,100,CONST-C,1,N/A,2026-03-17
+ACT-0239,Construction,Punch List,Verify punch completion,Medium,2026-02-18,2026-03-07,,,Not Started,0,CONST-A,0,N/A,2026-02-25
+ACT-0240,Construction,Installation,Install project component,Critical,2026-02-25,2026-03-03,2026-02-25,2026-03-18,Completed,100,CONST-C,0,N/A,2026-03-22
+ACT-0241,Planning,Progress Review,Review weekly progress,High,2026-04-08,2026-04-12,2026-04-06,,In Progress,20,PLAN-A,0,N/A,2026-04-16
+ACT-0242,Document Control,Approval Tracking,Update approval register,Critical,2026-06-20,2026-07-02,2026-06-27,,In Progress,30,DOC-B,2,Approved,2026-07-09
+ACT-0243,Planning,Lookahead Planning,Prepare lookahead plan,Medium,2026-01-05,2026-01-25,2026-01-05,,In Progress,10,PLAN-A,0,N/A,2026-01-15
+ACT-0244,Construction,Installation,Install project component,Medium,2026-07-14,2026-07-18,2026-07-19,,In Progress,95,CONST-B,2,N/A,2026-07-29
+ACT-0245,Engineering,Drawing Revision,Revise issued drawing,High,2026-04-04,2026-04-14,2026-04-05,,On Hold,40,ENG-B,2,Rejected,2026-04-18
+ACT-0246,Document Control,Transmittal,Track transmittal response,Medium,2026-05-07,2026-05-27,2026-05-07,2026-05-27,Completed,100,DOC-B,3,Approved,2026-06-06
+ACT-0247,Document Control,Document Submission,Prepare document for submission,Medium,2026-04-11,2026-04-18,2026-04-09,2026-04-18,Completed,100,DOC-A,1,Approved,2026-05-03
+ACT-0248,Construction,Punch List,Resolve outstanding punch item,High,2026-02-14,2026-02-17,2026-02-18,,In Progress,95,CONST-B,1,N/A,2026-02-27
+ACT-0249,QA/QC,Inspection,Verify completed installation,Medium,2026-05-10,2026-05-16,,,Not Started,0,QA-B,0,N/A,2026-05-12
+ACT-0250,Procurement,Purchase Review,Review purchase requirement,Low,2026-02-26,2026-03-05,2026-03-04,,In Progress,20,PROC-B,0,Pending,2026-03-19
+ACT-0251,Engineering,Material Review,Review material submittal,Medium,2026-04-12,2026-04-25,2026-04-17,2026-05-02,Completed,100,ENG-C,3,Approved,2026-05-06
+ACT-0252,Planning,Schedule Update,Update milestone tracker,Medium,2026-05-23,2026-06-07,2026-05-21,,In Progress,60,PLAN-A,4,N/A,2026-06-05
+ACT-0253,Construction,Installation,Install project component,Critical,2026-07-06,2026-07-09,2026-07-06,,In Progress,90,CONST-A,5,N/A,2026-07-10
+ACT-0254,Document Control,Approval Tracking,Track pending approval,Critical,2026-02-16,2026-02-24,2026-02-20,,In Progress,90,DOC-A,0,Pending,2026-03-02
+ACT-0255,Engineering,Material Review,Check technical datasheet,Medium,2026-03-16,2026-04-03,2026-03-20,,In Progress,80,ENG-B,1,Approved,2026-03-23
+ACT-0256,Engineering,Design Review,Review engineering drawing,Medium,2026-01-30,2026-02-10,2026-02-06,2026-02-04,Completed,100,ENG-A,2,Approved,2026-02-19
+ACT-0257,Engineering,Material Review,Review material submittal,High,2026-06-28,2026-07-12,,,Not Started,0,ENG-A,3,Pending,2026-07-05
+ACT-0258,Procurement,Delivery Tracking,Confirm delivery status,Low,2026-07-27,2026-08-07,2026-08-04,,In Progress,30,PROC-B,0,N/A,2026-08-18
+ACT-0259,QA/QC,Test Package Review,Validate test records,High,2026-02-22,2026-03-10,2026-02-20,,in progress,75,QA-A,3,Approved,2026-03-08
+ACT-0260,Engineering,Material Review,Review material submittal,High,2026-05-19,2026-06-08,,,Not Started,0,ENG-A,0,Approved,2026-05-20
+ACT-0261,Engineering,Design Review,Check design compliance,High,2026-03-16,2026-03-29,2026-03-14,2026-04-02,Completed,100,ENG-A,0,Approved,2026-04-16
+ACT-0262,Document Control,Approval Tracking,Update approval register,Medium,2026-04-03,2026-04-10,2026-04-03,2026-04-29,Completed,100,DOC-A,0,Approved,2026-05-17
+ACT-0263,Procurement,Vendor Follow-up,Coordinate supplier action,Medium,2026-06-20,2026-07-05,2026-06-30,,In Progress,25,PROC-A,2,N/A,2026-06-30
+ACT-0264,QA/QC,NCR Follow-up,Review corrective evidence,Critical,2026-06-18,2026-06-28,2026-06-16,2026-07-01,Completed,100,QC-C,1,N/A,2026-07-17
+ACT-0265,QA/QC,Inspection,Perform site inspection,Medium,2026-06-23,2026-07-06,2026-06-27,2026-07-10,Completed,100,QA-B,1,N/A,2026-07-20
+ACT-0266,Planning,Lookahead Planning,Review upcoming activities,,2026-06-20,2026-07-01,2026-06-26,2026-07-04,Completed,100,PLAN-B,3,N/A,2026-07-16
+ACT-0267,Planning,Schedule Update,Update milestone tracker,Medium,2026-03-21,2026-03-31,2026-03-23,2026-04-02,Completed,100,PLAN-B,5,N/A,2026-04-08
+ACT-0268,Planning,Progress Review,Analyze progress status,Medium,2026-07-24,2026-08-10,2026-07-22,,In Progress,25,PLAN-A,3,N/A,2026-08-08
+ACT-0269,QA/QC,Test Package Review,Review test package,High,2026-07-09,2026-07-28,2026-07-13,2026-08-15,Completed,100,QA-B,0,Approved,2026-08-19
+ACT-0270,QA/QC,NCR Follow-up,Verify NCR closure,High,2026-05-05,2026-05-08,2026-05-03,2026-05-06,Completed,100,QA-A,3,N/A,2026-05-22
+ACT-0271,Document Control,Approval Tracking,Update approval register,Medium,2026-01-18,2026-01-24,2026-01-20,2026-02-04,Completed,100,DOC-A,3,Approved,2026-02-14
+ACT-0272,Procurement,Purchase Review,Validate procurement status,High,2026-02-19,2026-03-03,2026-02-26,,In Progress,25,PROC-A,1,Approved,2026-02-28
+ACT-0273,Construction,Rework,Complete required rework,Medium,2026-05-07,2026-05-21,,,Not Started,0,CONST-A,1,N/A,2026-05-18
+ACT-0274,Document Control,Revision Control,Update document revision,High,2026-06-14,2026-06-23,2026-06-15,,In Progress,20,DOC-B,1,N/A,2026-07-03
+ACT-0275,Engineering,Design Review,Check design compliance,Critical,2026-05-01,2026-05-19,2026-04-29,,In Progress,70,ENG-A,1,Pending,2026-05-11
+ACT-0276,QA/QC,Testing,Conduct functional test,High,2026-06-04,2026-06-22,2026-06-13,2026-06-27,Completed,100,QC-C,3,N/A,2026-07-05
+ACT-0277,Construction,Installation,Execute planned installation,Low,2026-01-10,2026-01-13,2026-01-12,2026-01-15,COMPLETED,100,CONST-A,1,N/A,2026-01-19
+ACT-0278,Planning,Schedule Update,Refresh progress schedule,Medium,2026-01-30,2026-02-17,2026-02-03,,In Progress,20,PLAN-B,1,N/A,2026-02-06
+ACT-0279,Engineering,Design Review,Check design compliance,Medium,2026-02-25,2026-03-07,2026-03-02,2026-03-10,Completed,100,ENG-C,0,Approved,2026-03-16
+ACT-0280,Document Control,Transmittal,Prepare document transmittal,Low,2026-06-25,2026-06-29,2026-06-29,2026-06-23,Completed,100,DOC-B,0,Approved,2026-06-26
+ACT-0281,Planning,Variance Review,Investigate progress variance,Medium,2026-01-17,2026-01-22,2026-01-23,2026-01-14,Completed,100,PLAN-A,2,N/A,2026-01-27
+ACT-0282,Engineering,Design Review,Review engineering drawing,High,2026-06-23,2026-06-30,2026-07-02,2026-06-23,Completed,100,ENG-A,2,Approved,2026-07-03
+ACT-0283,Engineering,Material Review,Validate material specification,Medium,2026-04-13,2026-04-30,2026-04-11,2026-04-24,Completed,100,ENG-A,2,Approved,2026-04-29
+ACT-0284,Construction,Rework,Rectify field discrepancy,High,2026-02-20,2026-03-06,2026-02-18,,In Progress,25,CONST-A,1,N/A,2026-03-05
+ACT-0285,Document Control,Approval Tracking,Track pending approval,Low,2026-06-21,2026-07-03,,,Not Started,0,DOC-A,3,Pending,2026-07-09
+ACT-0286,Document Control,Transmittal,Track transmittal response,Medium,2026-07-03,2026-07-08,2026-07-01,,In Progress,90,DOC-A,2,Pending,2026-07-18
+ACT-0287,Engineering,Drawing Revision,Prepare revised drawing,High,2026-05-11,2026-05-18,,,Not Started,0,ENG-A,1,Pending,2026-05-19
+ACT-0288,Construction,Rework,Complete required rework,High,2026-01-25,2026-02-10,2026-01-26,2026-02-18,Completed,100,CONST-C,0,N/A,2026-03-05
+ACT-0289,Planning,Schedule Update,Refresh progress schedule,Medium,2026-05-27,2026-06-15,,,Not Started,0,PLAN-A,0,N/A,2026-06-05
+ACT-0290,Planning,Variance Review,Investigate progress variance,Medium,2026-01-18,2026-01-27,2026-01-16,2026-02-10,Completed,100,PLAN-B,2,N/A,2026-02-21
+ACT-0291,Engineering,Drawing Revision,Revise issued drawing,Medium,2026-06-16,2026-06-27,2026-06-16,,In Progress,95,ENG-C,2,Pending,2026-06-24
+ACT-0292,Engineering,Design Review,Check design compliance,Medium,2026-07-24,2026-08-01,2026-07-27,2026-07-22,Completed,100,ENG-B,3,Approved,2026-08-05
+ACT-0293,Planning,Progress Review,Validate reported progress,Low,2026-07-12,2026-07-15,2026-07-17,2026-07-03,Completed,100,PLAN-A,2,N/A,2026-07-08
+ACT-0294,Planning,Progress Review,Review weekly progress,Medium,2026-06-07,2026-06-19,2026-06-05,2026-07-09,Completed,100,PLAN-B,2,N/A,2026-07-17
+ACT-0295,Document Control,Transmittal,Issue transmittal record,High,2026-02-09,2026-02-24,2026-02-09,,In Progress,95,DOC-A,1,Pending,2026-02-26
+ACT-0296,QA/QC,NCR Follow-up,Review corrective evidence,Medium,2026-06-26,2026-07-02,2026-06-24,2026-06-23,Completed,100,QC-C,2,N/A,2026-07-03
+ACT-0297,Engineering,Technical Query,Respond to engineering query,Medium,2026-05-31,2026-06-15,2026-06-05,,In Progress,10,ENG-B,1,N/A,2026-06-05
+ACT-0298,Engineering,Design Review,Review engineering drawing,Medium,2026-07-25,2026-08-01,2026-07-24,,In Progress,10,ENG-A,2,Pending,2026-08-10
+ACT-0299,QA/QC,Test Package Review,Review test package,High,2026-06-26,2026-07-15,2026-06-28,2026-07-12,Completed,100,QC-C,2,Approved,2026-07-21
+ACT-0300,Planning,Variance Review,Investigate progress variance,Medium,2026-07-25,2026-08-06,2026-08-01,2026-08-13,Completed,100,PLAN-B,3,N/A,2026-08-21
+ACT-0301,Procurement,Vendor Follow-up,Coordinate supplier action,Critical,2026-03-21,2026-04-06,2026-03-23,2026-04-13,Completed,100,PROC-A,1,N/A,2026-04-25
+ACT-0302,Construction,Site Preparation,Prepare work area,Medium,2026-03-11,2026-03-13,2026-03-13,2026-03-18,Completed,100,CONST-C,0,N/A,2026-03-19
+ACT-0303,Construction,Site Preparation,Complete site readiness activity,High,2026-05-25,2026-06-07,,,Not Started,0,CONST-A,2,N/A,2026-06-10
+ACT-0304,Document Control,Document Submission,Issue controlled document,Medium,2026-05-24,2026-06-12,2026-05-22,,In Progress,40,DOC-B,0,Approved,2026-06-07
+ACT-0305,Document Control,Document Submission,Submit project document,,2026-04-29,2026-05-08,2026-05-07,,In Progress,10,DOC-B,2,Pending,2026-05-10
+ACT-0306,QA/QC,NCR Follow-up,Follow up corrective action,Critical,2026-07-21,2026-08-03,2026-07-19,2026-08-09,Completed,100,QC-C,2,N/A,2026-08-19
+ACT-0307,Engineering,Design Review,Review engineering drawing,Critical,2026-07-21,2026-08-09,2026-07-21,,In Progress,90,ENG-C,1,Pending,2026-08-07
+ACT-0308,Document Control,Approval Tracking,Update approval register,High,2026-01-23,2026-01-29,,,Not Started,0,DOC-A,2,Pending,2026-01-25
+ACT-0309,Engineering,Technical Query,Respond to engineering query,Low,2026-03-04,2026-03-14,2026-03-04,2026-03-14,Completed,100,ENG-C,1,N/A,2026-03-17
+ACT-0310,Engineering,Design Review,Review technical specification,High,2026-07-03,2026-07-07,2026-07-06,2026-07-08,Completed,100,ENG-B,1,Approved,2026-07-22
+ACT-0311,QA/QC,Inspection,Verify completed installation,Medium,2026-03-02,2026-03-08,2026-03-10,,In Progress,40,QA-B,4,N/A,2026-03-14
+ACT-0312,Planning,Lookahead Planning,Prepare lookahead plan,Medium,2026-05-27,2026-06-02,2026-06-02,2026-06-05,Completed,100,PLAN-A,4,N/A,2026-06-14
+ACT-0313,Procurement,Delivery Tracking,Track material delivery,Medium,2026-06-19,2026-07-07,2026-06-25,2026-07-29,Completed,100,PROC-A,0,N/A,2026-08-16
+ACT-0314,Procurement,Purchase Review,Check purchase documentation,Medium,2026-03-20,2026-03-24,2026-03-25,,In Progress,90,PROC-A,2,Pending,2026-03-27
+ACT-0315,QA/QC,Test Package Review,Check package completeness,High,2026-03-24,2026-04-13,2026-03-31,2026-04-27,Completed,100,QC-C,0,Approved,2026-05-04
+ACT-0316,Planning,Variance Review,Investigate progress variance,High,2026-02-08,2026-02-20,2026-02-06,2026-02-19,Completed,100,PLAN-A,1,N/A,2026-02-24
+ACT-0317,Procurement,Vendor Follow-up,Coordinate supplier action,Medium,2026-07-11,2026-07-15,2026-07-17,,In Progress,90,PROC-B,0,N/A,2026-08-04
+ACT-0318,Procurement,Vendor Follow-up,Follow up vendor response,Medium,2026-05-24,2026-06-12,2026-05-28,2026-06-16,Completed,100,PROC-A,2,N/A,2026-06-25
+ACT-0319,Construction,Installation,Install project component,Medium,2026-01-07,2026-01-16,2026-01-12,2026-01-16,Completed,100,CONST-A,1,N/A,2026-01-30
+ACT-0320,Engineering,Drawing Revision,Prepare revised drawing,High,2026-04-06,2026-04-09,2026-04-06,2026-04-14,Completed,100,ENG-B,0,Approved,2026-04-25
+ACT-0321,Construction,Rework,Correct installation issue,Low,2026-06-20,2026-07-02,2026-06-28,2026-07-09,Completed,100,CONST-C,2,N/A,2026-07-27
+ACT-0322,Construction,Rework,Rectify field discrepancy,Medium,2026-06-04,2026-06-08,2026-06-02,2026-06-30,Completed,100,CONST-B,1,N/A,2026-07-11
+ACT-0323,Procurement,Material Request,Coordinate material requirement,High,2026-04-27,2026-05-04,2026-04-27,2026-05-15,Completed,100,PROC-A,0,Approved,2026-05-18
+ACT-0324,Construction,Site Preparation,Coordinate access preparation,Low,2026-06-26,2026-07-13,2026-06-25,2026-07-16,Completed,100,CONST-C,0,N/A,2026-07-20
+ACT-0325,Construction ,Punch List,Resolve outstanding punch item,Medium,2026-05-31,2026-06-06,,,Not Started,0,CONST-C,0,N/A,2026-06-05
+ACT-0326,Document Control,Document Submission,Issue controlled document,High,2026-03-18,2026-03-22,2026-03-16,2026-03-21,Completed,100,DOC-A,0,Approved,2026-03-25
+ACT-0327,Construction,Site Preparation,Prepare work area,High,2026-04-02,2026-04-18,2026-04-08,2026-05-01,Completed,100,CONST-C,0,N/A,2026-05-17
+ACT-0328,Planning,Progress Review,Analyze progress status,Low,2026-05-06,2026-05-09,2026-05-04,2026-05-09,Completed,100,PLAN-A,2,N/A,2026-05-26
+ACT-0329,Document Control,Approval Tracking,Update approval register,Medium,2026-01-16,2026-02-03,2026-01-21,,In Progress,95,DOC-A,3,Approved,2026-02-08
+ACT-0330,Construction,Site Preparation,Complete site readiness activity,High,2026-01-26,2026-02-06,2026-01-27,2026-02-15,Completed,100,CONST-C,2,N/A,2026-02-15
+ACT-0331,Construction,Installation,Install project component,High,2026-06-30,2026-07-12,2026-07-03,2026-07-12,Completed,100,CONST-B,0,N/A,2026-07-29
+ACT-0332,Construction,Site Preparation,Coordinate access preparation,Medium,2026-02-26,2026-03-13,2026-03-03,2026-03-27,Completed,100,CONST-C,1,N/A,2026-04-05
+ACT-0333,QA/QC,Test Package Review,Validate test records,Medium,2026-06-22,2026-06-27,2026-06-28,2026-07-02,Completed,100,QC-C,0,Approved,2026-07-12
+ACT-0334,Construction,Installation,Complete field installation,Medium,2026-06-16,2026-06-18,2026-06-17,,In Progress,80,CONST-B,1,N/A,2026-06-19
+ACT-0335,QA/QC,Inspection,Conduct quality inspection,Low,2026-04-13,2026-04-27,2026-04-11,2026-05-02,Completed,100,QC-C,4,N/A,2026-05-07
+ACT-0336,Construction,Installation,Complete field installation,High,2026-07-29,2026-08-16,2026-08-06,,In Progress,25,CONST-A,2,N/A,2026-08-17
+ACT-0337, PLANNING,Progress Review,Review weekly progress,Critical,2026-07-23,2026-08-06,2026-07-25,,In Progress,75,PLAN-A,0,N/A,2026-07-27
+ACT-0338,Construction,Site Preparation,Complete site readiness activity,Critical,2026-03-16,2026-03-25,2026-03-22,2026-04-21,Completed,100,CONST-C,0,N/A,2026-05-04
+ACT-0339,Engineering,Design Review,Review technical specification,Medium,2026-02-03,2026-02-21,2026-02-09,2026-02-16,Completed,100,ENG-B,2,Pending,2026-03-06
+ACT-0340,Procurement,Delivery Tracking,Confirm delivery status,High,2026-06-04,2026-06-06,2026-06-07,,In Progress,95,PROC-B,0,N/A,2026-06-17
+ACT-0341,Document Control,Document Submission,Issue controlled document,High,2026-03-09,2026-03-20,2026-03-14,,In Progress,20,DOC-B,1,Pending,2026-03-24
+ACT-0342,QA/QC,NCR Follow-up,Follow up corrective action,Critical,2026-06-28,2026-07-06,2026-07-02,,In Progress,30,QA-A,3,N/A,2026-07-13
+ACT-0343,Procurement,Material Request,Prepare material request,High,2026-06-23,2026-07-10,2026-07-03,,In Progress,10,PROC-B,3,Pending,2026-07-13
+ACT-0344,Document Control,Transmittal,Issue transmittal record,Medium,2026-07-19,2026-08-06,2026-07-21,2026-08-20,Completed,100,DOC-B,2,Approved,2026-08-22
+ACT-0345,QA/QC,Testing,Perform pressure test,Critical,2026-07-02,2026-07-20,2026-07-04,2026-07-25,Completed,100,QA-B,1,N/A,2026-08-04
+ACT-0345,Construction,Site Preparation,Prepare work area,Medium,2026-03-06,2026-03-16,2026-03-06,2026-03-21,Completed,100,CONST-B,0,N/A,2026-04-01
+ACT-0347,Procurement,Delivery Tracking,Confirm delivery status,Medium,2026-02-07,2026-02-27,2026-02-13,,In Progress,60,PROC-B,0,N/A,2026-02-17
+ACT-0348,Procurement,Vendor Follow-up,Check vendor document status,Medium,2026-06-15,2026-07-03,2026-06-14,2026-07-08,Completed,100,PROC-B,3,N/A,2026-07-09
+ACT-0349,Engineering,Drawing Revision,Revise issued drawing,Medium,2026-03-11,2026-03-28,2026-03-12,2026-04-01,Completed,100,ENG-B,1,Approved,2026-04-09
+ACT-0350,Engineering,Design Review,Check design compliance,High,2026-06-09,2026-06-17,2026-06-08,,In Progress,40,ENG-C,1,Pending,2026-06-23
+ACT-0351, CONSTRUCTION,Installation,Install project component,,2026-05-03,2026-05-09,2026-05-01,2026-05-05,Completed,100,CONST-A,1,N/A,2026-05-17
+ACT-0352,Engineering,Technical Query,Resolve site technical query,Medium,2026-06-21,2026-07-02,2026-06-20,,In Progress,50,ENG-B,2,N/A,2026-07-06
+ACT-0353,Construction,Punch List,Close punch item,Medium,2026-03-06,2026-03-16,2026-03-06,,In Progress,25,CONST-A,1,N/A,2026-03-09
+ACT-0354,Document Control,Approval Tracking,Update approval register,Low,2026-07-21,2026-08-04,2026-07-24,,In Progress,60,DOC-B,0,Pending,2026-08-02
+ACT-0355,Construction,Punch List,Resolve outstanding punch item,High,2026-01-12,2026-01-15,2026-01-15,,In Progress,70,CONST-B,1,N/A,2026-02-01
+ACT-0356,Construction,Punch List,Resolve outstanding punch item,Medium,2026-06-05,2026-06-21,2026-06-05,2026-06-23,Completed,100,CONST-B,2,N/A,2026-07-02
+ACT-0357,Construction,Punch List,Close punch item,Medium,2026-04-08,2026-04-23,2026-04-11,,In Progress,50,CONST-A,0,N/A,2026-04-28
+ACT-0358,Planning,Variance Review,,Medium,2026-07-20,2026-08-04,2026-07-21,,In Progress,75,PLAN-B,1,N/A,2026-08-03
+ACT-0359,QA/QC,Testing,Complete system testing,High,2026-04-14,2026-04-28,2026-04-21,2026-05-10,Completed,100,QA-B,2,N/A,2026-05-18
+ACT-0360,Planning,Lookahead Planning,Review upcoming activities,Medium,2026-01-22,2026-01-29,2026-01-26,2026-02-06,Completed,100,PLAN-A,2,N/A,2026-02-21
+ACT-0361,QA/QC,Testing,Conduct functional test,Critical,2026-01-10,2026-01-17,2026-01-11,2026-01-28,Completed,100,QA-A,0,N/A,2026-01-30
+ACT-0362,Engineering,Drawing Revision,Update drawing comments,Medium,2026-07-25,2026-08-11,2026-07-23,2026-08-19,Completed,100,ENG-B,3,Pending,2026-08-20
+ACT-0363,Procurement,Material Request,Coordinate material requirement,Medium,2026-02-23,2026-03-05,2026-02-27,,In Progress,70,PROC-B,0,Rejected,2026-03-05
+ACT-0364,Planning,Schedule Update,Update milestone tracker,High,2026-02-27,2026-03-16,2026-02-27,,In Progress,25,PLAN-A,1,N/A,2026-02-28
+ACT-0365,QA/QC,NCR Follow-up,Follow up corrective action,Medium,2026-01-18,2026-01-26,2026-01-20,2026-02-10,Completed,100,QA-A,2,N/A,2026-02-28
+ACT-0366,QA/QC,Testing,Conduct functional test,Critical,2026-06-02,2026-06-19,2026-06-08,2026-07-07,Completed,100,QC-C,1,N/A,2026-07-17
+ACT-0367,Engineering,Technical Query,Respond to engineering query,Medium,2026-05-22,2026-05-27,2026-05-24,,In Progress,70,ENG-C,2,N/A,2026-05-24
+ACT-0368,QA/QC,Testing,Perform pressure test,High,2026-05-09,2026-05-25,2026-05-22,2026-05-22,Completed,100,QC-C,1,N/A,2026-06-01
+ACT-0369,Construction,Punch List,Close punch item,Medium,2026-04-30,2026-05-11,2026-05-03,2026-05-08,Completed,100,CONST-A,1,N/A,2026-05-13
+ACT-0370,Construction,Site Preparation,Coordinate access preparation,Medium,2026-07-08,2026-07-12,2026-07-13,2026-07-14,Completed,100,CONST-A,1,N/A,2026-07-31
+ACT-0371,Construction,Site Preparation,Complete site readiness activity,High,2026-02-02,2026-02-07,2026-02-08,2026-02-19,completed,100,CONST-A,3,N/A,2026-02-25
+ACT-0372,Construction,Installation,Complete field installation,Medium,2026-04-14,2026-05-01,2026-04-15,,In Progress,50,CONST-A,0,N/A,2026-04-17
+ACT-0373,Document Control,Revision Control,Maintain revision register,Medium,2026-01-25,2026-02-10,2026-01-31,,In Progress,50,DOC-B,2,N/A,2026-02-01
+ACT-0374,Construction,Installation,Install project component,Low,2026-03-01,2026-03-19,2026-03-06,,In Progress,30,CONST-C,0,N/A,2026-03-13
+ACT-0375,Construction,Punch List,Resolve outstanding punch item,High,2026-04-21,2026-04-26,2026-04-20,,In Progress,20,CONST-C,0,N/A,2026-04-25
+ACT-0376,Construction,Site Preparation,Coordinate access preparation,Medium,2026-06-07,2026-06-23,2026-06-07,,In Progress,50,CONST-C,3,N/A,2026-06-20
+ACT-0377,Construction,Site Preparation,Coordinate access preparation,Medium,2026-05-24,2026-06-01,2026-05-22,2026-06-06,Completed,100,CONST-A,1,N/A,2026-06-18
+ACT-0378,Planning,Lookahead Planning,Update short-term plan,Low,2026-02-08,2026-02-19,,,Not Started,0,PLAN-B,5,N/A,2026-02-14
+ACT-0379,Engineering,Technical Query,Respond to engineering query,Medium,2026-05-31,2026-06-20,2026-06-05,2026-06-26,Completed,100,ENG-A,1,N/A,2026-07-14
+ACT-0380,QA/QC,NCR Follow-up,Follow up corrective action,Medium,2026-05-30,2026-06-07,2026-05-31,2026-05-31,Completed,100,QA-A,3,N/A,2026-06-18
+ACT-0381,Construction,Site Preparation,Prepare work area,High,2026-06-01,2026-06-15,,,Not Started,0,CONST-B,0,N/A,2026-06-11
+ACT-0382,Document Control,Approval Tracking,Follow up document approval,Critical,2026-02-04,2026-02-13,2026-02-10,,In Progress,10,DOC-A,0,Pending,2026-02-27
+ACT-0383,QA/QC,Testing,Conduct functional test,Low,2026-07-11,2026-07-25,2026-07-09,,In Progress,20,QA-B,0,N/A,2026-07-18
+ACT-0384,Engineering,Technical Query,Resolve site technical query,Medium,2026-07-14,2026-07-17,2026-07-15,2026-07-30,Completed,100,ENG-B,2,N/A,2026-08-03
+ACT-0385,Construction,Rework,Complete required rework,High,2026-02-24,2026-03-15,2026-02-27,2026-03-19,Completed,100,CONST-C,2,N/A,2026-03-29
+ACT-0386,Document Control,Document Submission,Submit project document,High,2026-04-23,2026-05-06,2026-04-23,2026-05-19,Completed,100,DOC-A,0,Rejected,2026-06-02
+ACT-0387,Construction,Punch List,Close punch item,High,2026-02-13,2026-02-17,2026-02-25,,In Progress,40,CONST-B,0,N/A,2026-02-28
+ACT-0388,Construction,Installation,Install project component,Medium,2026-05-22,2026-05-30,2026-05-28,2026-06-08,Completed,100,CONST-C,2,N/A,2026-06-12
+ACT-0389,Planning,Schedule Update,Refresh progress schedule,High,2026-06-23,2026-07-11,,,Not Started,0,PLAN-A,0,N/A,2026-07-02
+ACT-0390,Procurement,Delivery Tracking,Track material delivery,Medium,2026-01-07,2026-01-11,2026-01-15,2026-01-30,completed,100,PROC-B,3,N/A,2026-01-30
+ACT-0391,Document Control,Approval Tracking,Track pending approval,Critical,2026-05-15,2026-05-20,2026-05-13,2026-05-21,Completed,100,DOC-A,0,Pending,2026-06-07
+ACT-0392,Engineering,Technical Query,Clarify design requirement,Medium,2026-07-14,2026-07-21,,,Not Started,0,ENG-C,2,N/A,2026-07-25
+ACT-0393,QA/QC,NCR Follow-up,Follow up corrective action,High,2026-04-14,2026-04-16,2026-04-15,,In Progress,50,QA-A,3,N/A,2026-04-19
+ACT-0394,Planning,Progress Review,Validate reported progress,Medium,2026-02-13,2026-02-28,2026-02-17,2026-02-28,Completed,100,PLAN-A,0,N/A,2026-03-04
+ACT-0395,Document Control,Transmittal,Track transmittal response,High,2026-05-19,2026-05-25,2026-05-26,,In Progress,25,DOC-A,0,Pending,2026-05-29
+ACT-0396,QA/QC,Testing,Complete system testing,Low,2026-03-27,2026-04-11,2026-03-26,2026-04-17,Completed,100,QA-A,2,N/A,2026-04-25
+ACT-0397,Procurement,Material Request,Prepare material request,Medium,2026-07-19,2026-07-29,2026-07-17,,In Progress,30,PROC-A,2,Pending,2026-08-01
+ACT-0398,Construction,Rework,Rectify field discrepancy,High,2026-02-21,2026-03-07,2026-02-26,2026-03-20,Completed,100,CONST-B,2,N/A,2026-03-20
+ACT-0399,Document Control,Revision Control,Maintain revision register,High,2026-02-25,2026-03-05,,,Not Started,10,DOC-B,4,N/A,2026-03-11
+ACT-0400,Planning,Variance Review,Analyze schedule variance,Medium,2026-07-22,2026-07-25,2026-07-25,2026-07-17,Completed,100,PLAN-A,4,N/A,2026-08-04
+ACT-0401,Construction,Rework,Complete required rework,High,2026-01-15,2026-01-24,2026-01-14,2026-02-10,Completed,100,CONST-A,1,N/A,2026-02-11
+ACT-0402,QA/QC,Test Package Review,Check package completeness,High,2026-03-19,2026-04-04,2026-03-19,,In Progress,70,QA-A,3,Pending,2026-04-04
+ACT-0403,Engineering,Drawing Revision,Update drawing comments,Medium,2026-04-30,2026-05-02,2026-05-10,2026-05-05,Completed,100,ENG-C,1,Approved,2026-05-10
+ACT-0404,Planning,Schedule Update,Update activity schedule,High,2026-06-16,2026-06-29,2026-06-15,,In Progress,75,PLAN-B,1,N/A,2026-06-20
+ACT-0405,Construction,Installation,Complete field installation,Critical,2026-05-29,2026-06-04,2026-06-05,2026-06-24,Completed,100,CONST-B,0,N/A,2026-07-08
+ACT-0406,Construction,Installation,Complete field installation,Critical,2026-01-05,2026-01-15,,,Not Started,0,CONST-C,1,N/A,2026-01-20
+ACT-0407, PROCUREMENT,Purchase Review,Review purchase requirement,Medium,2026-06-22,2026-07-09,2026-06-21,2026-07-24,Completed,100,PROC-A,3,Approved,2026-08-10
+ACT-0408,Engineering,Drawing Revision,Revise issued drawing,High,2026-01-14,2026-01-20,2026-01-12,2026-01-12,Completed,100,ENG-A,4,Approved,2026-01-25
+ACT-0409,Engineering,Technical Query,Respond to engineering query,High,2026-07-03,2026-07-23,2026-07-06,2026-08-04,Completed,100,ENG-B,4,N/A,2026-08-06
+ACT-0410,QA/QC,Test Package Review,Review test package,High,2026-05-25,2026-05-29,2026-05-31,2026-06-14,Completed,100,QC-C,1,Approved,2026-06-20
+ACT-0411,Engineering,Design Review,Check design compliance,High,2026-06-08,2026-06-19,2026-06-11,2026-06-19,Completed,100,ENG-B,1,Pending,2026-07-07
+ACT-0412,construction,Rework,Complete required rework,High,2026-06-10,2026-06-19,2026-06-13,2026-06-28,Completed,100,CONST-C,1,N/A,2026-07-01
+ACT-0413,Procurement,Purchase Review,Validate procurement status,Low,2026-04-04,2026-04-23,2026-04-09,,In Progress,20,PROC-A,0,Pending,2026-04-19
+ACT-0414,Engineering,Technical Query,Clarify design requirement,Medium,2026-05-30,2026-06-01,2026-06-06,2026-06-15,Completed,100,ENG-A,1,N/A,2026-06-30
+ACT-0415,Planning,Variance Review,Analyze schedule variance,High,2026-05-22,2026-06-03,2026-05-20,,In Progress,10,PLAN-B,3,N/A,2026-05-29
+ACT-0416,Construction,Installation,Complete field installation,Medium,2026-03-30,2026-04-12,,,Not Started,0,CONST-B,0,N/A,2026-03-30
+ACT-0417,Document Control,Revision Control,Maintain revision register,High,2026-02-21,2026-02-26,2026-02-22,2026-02-18,Completed,100,DOC-A,0,N/A,2026-03-03
+ACT-0418,Construction,Punch List,Verify punch completion,Medium,2026-03-23,2026-03-31,2026-03-28,2026-04-16,Completed,100,CONST-B,0,N/A,2026-04-18
+ACT-0419,Construction,Rework,Rectify field discrepancy,Medium,2026-04-02,2026-04-19,2026-03-31,2026-04-26,Completed,100,CONST-C,3,N/A,2026-05-12
+ACT-0420,Document Control,Revision Control,Maintain revision register,Low,2026-04-14,2026-05-02,2026-04-14,,In Progress,50,DOC-A,1,N/A,2026-04-15
+ACT-0421,Construction,Site Preparation,Prepare work area,Medium,2026-03-25,2026-04-02,2026-03-29,2026-04-10,Completed,100,CONST-B,1,N/A,2026-04-13
+ACT-0422,Engineering,Technical Query,Resolve site technical query,Low,2026-06-13,2026-07-02,2026-06-18,2026-07-02,Completed,100,ENG-C,0,N/A,2026-07-11
+ACT-0423,QA/QC,Inspection,Verify completed installation,High,2026-04-01,2026-04-20,2026-04-06,2026-04-16,Completed,100,QA-A,0,N/A,2026-04-17
+ACT-0424,Construction,Punch List,Resolve outstanding punch item,High,2026-06-05,2026-06-21,2026-06-09,2026-07-06,Completed,100,CONST-A,2,N/A,2026-07-23
+ACT-0425,Document Control,Approval Tracking,Update approval register,Medium,2026-07-29,2026-08-14,2026-07-27,2026-08-10,Completed,100,DOC-B,1,Pending,2026-08-14
+ACT-0426,Document Control,Approval Tracking,Track pending approval,High,2026-06-24,2026-07-06,2026-06-22,,In Progress,10,DOC-B,0,Pending,2026-07-07
+ACT-0427,Procurement,Delivery Tracking,Confirm delivery status,High,2026-02-06,2026-02-24,2026-02-12,2026-02-23,Completed,100,PROC-B,2,N/A,2026-03-04
+ACT-0428,Construction,Rework,Correct installation issue,High,2026-05-25,2026-06-01,2026-05-25,,In Progress,60,CONST-C,1,N/A,2026-06-04
+ACT-0429,Planning,Progress Review,Analyze progress status,High,2026-07-13,2026-08-02,2026-07-16,2026-07-31,Completed,100,PLAN-A,0,N/A,2026-08-14
+ACT-0430,QA/QC,Test Package Review,,High,2026-06-29,2026-07-13,2026-06-29,,On Hold,20,QA-A,3,Approved,2026-06-29
+ACT-0431,Planning,Variance Review,Review delayed activity,Medium,2026-06-11,2026-07-01,2026-06-14,2026-07-19,Completed,100,PLAN-B,2,N/A,2026-07-28
+ACT-0432,Planning,Lookahead Planning,Prepare lookahead plan,High,2026-06-10,2026-06-28,2026-06-13,2026-07-05,Completed,100,PLAN-A,1,N/A,2026-07-06
+ACT-0433,Planning,Lookahead Planning,Prepare lookahead plan,High,2026-01-12,2026-01-21,2026-01-10,,In Progress,60,PLAN-B,1,N/A,2026-01-15
+ACT-0434,Engineering,Material Review,Validate material specification,High,2026-02-13,2026-02-24,2026-02-12,,In Progress ,20,ENG-C,2,Pending,2026-02-27
+ACT-0435,Construction,Punch List,Close punch item,Medium,2026-04-21,2026-05-07,2026-04-21,,In Progress,60,CONST-B,1,N/A,2026-05-05
+ACT-0436,QA/QC,Testing,Perform pressure test,High,2026-06-01,2026-06-18,2026-05-30,2026-06-17,Completed,100,QA-A,1,N/A,2026-06-28
+ACT-0437,Document Control,Approval Tracking,Update approval register,Medium,2026-06-02,2026-06-19,2026-06-03,2026-06-21,Completed,100,DOC-B,3,Approved,2026-06-29
+ACT-0438,Construction,Installation,Complete field installation,Medium,2026-07-13,2026-07-17,2026-07-12,2026-07-17,Completed,100,CONST-A,3,N/A,2026-08-03
+ACT-0439,Construction,Rework,Rectify field discrepancy,,2026-04-22,2026-05-05,2026-04-22,,In Progress,10,CONST-C,2,N/A,2026-05-01
+ACT-0440,Procurement,Delivery Tracking,Track material delivery,High,2026-06-02,2026-06-09,2026-06-04,,On Hold,40,PROC-A,0,N/A,2026-06-20
+ACT-0441,Procurement,Delivery Tracking,Confirm delivery status,Medium,2026-03-17,2026-03-27,2026-03-18,2026-04-11,completed,100,PROC-B,1,N/A,2026-04-15
+ACT-0442,QA/QC,Testing,Perform pressure test,High,2026-03-06,2026-03-23,2026-03-09,2026-04-21,Completed,100,QA-B,4,N/A,2026-04-25
+ACT-0443,Procurement,Purchase Review,Validate procurement status,Medium,2026-04-27,2026-05-04,2026-05-03,,In Progress,90,PROC-A,0,Approved,2026-05-04
+ACT-0444,construction,Rework,Complete required rework,Medium,2026-07-16,2026-08-04,2026-07-17,2026-08-06,Completed,100,CONST-A,1,N/A,2026-08-19
+ACT-0445,QA/QC,Test Package Review,Check package completeness,High,2026-05-20,2026-05-23,2026-05-19,,In Progress,90,QA-A,3,Pending,2026-05-27
+ACT-0446,QA/QC,Test Package Review,Check package completeness,High,2026-07-15,2026-07-24,2026-07-16,2026-08-02,Completed,100,QA-A,2,Approved,2026-08-19
+ACT-0447,Planning,Schedule Update,Update activity schedule,Medium,2026-05-19,2026-05-24,2026-05-23,2026-05-26,Completed,100,PLAN-A,0,N/A,2026-05-28
+ACT-0448,Document Control,Revision Control,Maintain revision register,High,2026-07-05,2026-07-10,2026-07-04,,In Progress,90,DOC-A,1,N/A,2026-07-09
+ACT-0449,Planning,Lookahead Planning,Review upcoming activities,Medium,2026-01-24,2026-02-09,2026-01-24,,In Progress,50,PLAN-B,0,N/A,2026-01-26
+ACT-0450,Procurement,Purchase Review,Validate procurement status,Medium,2026-01-20,2026-01-30,2026-01-28,2026-02-02,Completed,100,PROC-B,4,Approved,2026-02-07
+ACT-0451,Engineering,Material Review,Review material submittal,High,2026-02-01,2026-02-17,2026-02-04,2026-03-03,Completed,100,ENG-A,0,Approved,2026-03-18
+ACT-0452,Planning,Schedule Update,Update activity schedule,High,2026-03-14,2026-03-20,2026-03-17,,In Progress,75,PLAN-B,2,N/A,2026-04-01
+ACT-0453,Construction,Installation,Execute planned installation,Medium,2026-04-13,2026-04-30,2026-04-11,2026-05-04,Completed,100,CONST-C,0,N/A,2026-05-05
+ACT-0454,Document Control,Document Submission,Prepare document for submission,Medium,2026-04-02,2026-04-06,2026-04-03,2026-04-04,Completed,100,DOC-B,1,Pending,2026-04-10
+ACT-0455,Planning,Schedule Update,Update milestone tracker,High,2026-05-09,2026-05-13,2026-05-08,2026-05-17,Completed,100,PLAN-A,0,N/A,2026-06-04
+ACT-0456,Construction,Installation,Execute planned installation,High,2026-05-12,2026-05-31,2026-05-19,2026-05-22,Completed,100,CONST-C,0,N/A,2026-06-01
+ACT-0457,Engineering,Design Review,Review engineering drawing,High,2026-06-24,2026-07-12,2026-06-23,2026-07-03,Completed,100,ENG-C,1,Pending,2026-07-04
+ACT-0458,Engineering,Design Review,Check design compliance,Critical,2026-06-12,2026-06-15,2026-06-13,,In Progress,20,ENG-A,1,Pending,2026-07-01
+ACT-0459,Procurement,Material Request,Prepare material request,Medium,2026-07-28,2026-08-06,,,Not Started,0,PROC-B,0,Pending,2026-08-09
+ACT-0460,Engineering,Drawing Revision,Update drawing comments,High,2026-07-27,2026-08-04,2026-07-28,,In Progress,20,ENG-C,0,Approved,2026-08-02
+ACT-0461,QA/QC,Testing,Perform pressure test,Medium,2026-06-02,2026-06-05,2026-06-05,2026-06-02,Completed,100,QA-A,0,N/A,2026-06-17
+ACT-0462,Engineering,Drawing Revision,Revise issued drawing,High,2026-06-05,2026-06-16,2026-06-09,,In Progress,90,ENG-A,0,Pending,2026-06-16
+ACT-0463,Construction,Installation,Execute planned installation,Medium,2026-05-12,2026-05-16,2026-05-10,,In Progress,10,CONST-A,1,N/A,2026-05-16
+ACT-0464,Document Control,Document Submission,Issue controlled document,Medium,2026-07-18,2026-08-06,2026-07-16,2026-08-12,Completed,100,DOC-B,0,Approved,2026-08-16
+ACT-0465,Construction,Punch List,Resolve outstanding punch item,Critical,2026-01-18,2026-01-31,2026-01-18,,In Progress,10,CONST-C,0,N/A,2026-01-19
+ACT-0466,Engineering,Design Review,Check design compliance,Medium,2026-01-23,2026-02-01,2026-01-26,2026-02-03,Completed,100,ENG-B,2,Approved,2026-02-06
+ACT-0467,QA/QC,Testing,Complete system testing,Medium,2026-02-25,2026-03-11,2026-03-01,2026-03-15,Completed,100,QC-C,1,N/A,2026-03-21
+ACT-0468,Construction,Rework,Complete required rework,Medium,2026-07-08,2026-07-16,2026-07-10,,In Progress,25,CONST-A,0,N/A,2026-07-28
+ACT-0469,QA/QC,Inspection,Verify completed installation,Medium,2026-02-17,2026-03-01,2026-02-18,,In Progress,25,QA-A,1,N/A,2026-03-07
+ACT-0470,Engineering,Material Review,Review material submittal,High,2026-05-03,2026-05-13,,,Not Started,0,ENG-B,1,APPROVED,2026-05-10
+ACT-0471,Construction,Punch List,Resolve outstanding punch item,Critical,2026-05-31,2026-06-02,2026-06-05,2026-06-24,Completed,100,CONST-C,1,N/A,2026-07-07
+ACT-0472,QA/QC,Inspection,Verify completed installation,Medium,2026-01-26,2026-02-14,2026-01-27,,In Progress,30,QA-A,0,N/A,2026-02-05
+ACT-0473,Planning,Schedule Update,Update activity schedule,Medium,2026-03-24,2026-03-31,2026-03-29,2026-03-24,Completed,100,PLAN-B,1,N/A,2026-03-28
+ACT-0474,Engineering,Technical Query,Respond to engineering query,Medium,2026-06-16,2026-06-18,2026-06-25,2026-06-30,Completed,100,ENG-B,0,N/A,2026-07-13
+ACT-0475,Planning,Progress Review,Analyze progress status,Low,2026-03-31,2026-04-03,2026-04-04,2026-04-02,Completed,100,PLAN-A,1,N/A,2026-04-16
+ACT-0476,QA/QC,Testing,Complete system testing,Medium,2026-01-22,2026-02-10,2026-01-27,2026-03-10,Completed,100,QC-C,0,N/A,2026-03-25
+ACT-0477, DOCUMENT CONTROL,Revision Control,Maintain revision register,High,2026-03-28,2026-04-10,2026-03-26,2026-04-13,Completed,100,DOC-B,1,N/A,2026-04-27
+ACT-0478,Construction,Installation,Install project component,High,2026-06-27,2026-07-16,2026-06-27,,In Progress,20,CONST-A,0,N/A,2026-07-11
+ACT-0479,Engineering,Drawing Revision,Update drawing comments,Critical,2026-01-24,2026-01-29,2026-01-26,2026-02-05,Completed,100,ENG-B,0,Pending,2026-02-05
+ACT-0480,Construction,Punch List,Verify punch completion,Medium,2026-04-28,2026-04-30,2026-05-03,2026-05-14,Completed,100,CONST-B,4,N/A,2026-05-24
+ACT-0481,Construction,Site Preparation,Complete site readiness activity,High,2026-07-02,2026-07-20,2026-07-03,2026-07-28,Completed,100,CONST-B,2,N/A,2026-08-02
+ACT-0482,QA/QC,NCR Follow-up,Verify NCR closure,High,2026-01-17,2026-01-23,2026-01-21,2026-02-08,Completed,100,QA-A,2,N/A,2026-02-17
+ACT-0483,Document Control,Revision Control,Update document revision,Medium,2026-01-15,2026-01-27,2026-01-24,2026-01-27,Completed,100,DOC-B,2,N/A,2026-02-06
+ACT-0484,Engineering,Material Review,Check technical datasheet,Critical,2026-05-21,2026-06-01,2026-05-24,2026-06-18,Completed,100,ENG-A,4,Pending,2026-06-22
+ACT-0485,Document Control,Transmittal,Track transmittal response,High,2026-05-06,2026-05-17,2026-05-05,,In Progress ,90,DOC-B,0,Pending,2026-05-19
+ACT-0486,Planning,Variance Review,Analyze schedule variance,Medium,2026-05-26,2026-05-31,2026-05-24,2026-06-11,Completed,100,PLAN-A,0,N/A,2026-06-12
+ACT-0487,Construction,Punch List,,Medium,2026-01-26,2026-02-14,2026-01-25,,In Progress,70,CONST-A,0,N/A,2026-02-10
+ACT-0488,Document Control,Transmittal,Issue transmittal record,Medium,2026-04-24,2026-05-07,2026-04-22,2026-05-07,Completed,100,DOC-B,1,Approved,2026-05-13
+ACT-0489,Procurement,Purchase Review,Validate procurement status,Medium,2026-07-10,2026-07-25,2026-07-16,2026-08-11,Completed,100,PROC-A,0,Approved,2026-08-20
+ACT-0490,Document Control,Approval Tracking,Track pending approval,Low,2026-06-17,2026-06-27,2026-06-15,2026-06-27,Completed,100,DOC-B,0,Approved,2026-07-09
+ACT-0491,Construction,Installation,Install project component,High,2026-03-23,2026-04-09,2026-03-21,2026-04-19,Completed,100,CONST-A,0,N/A,2026-05-04
+ACT-0492,Planning,Lookahead Planning,Review upcoming activities,Medium,2026-06-30,2026-07-09,,,Not Started,0,PLAN-A,2,N/A,2026-07-15
+ACT-0493,Construction,Site Preparation,Coordinate access preparation,Medium,2026-04-26,2026-05-06,2026-04-29,2026-05-14,Completed,100,CONST-A,1,N/A,2026-06-01
+ACT-0494,Procurement,Vendor Follow-up,,Low,2026-03-27,2026-04-12,2026-03-29,2026-04-27,Completed,100,PROC-A,1,N/A,2026-05-08
+ACT-0495,QA/QC,Inspection,Conduct quality inspection,Medium,2026-06-14,2026-06-21,2026-06-19,2026-07-01,Completed,100,QA-B,0,N/A,2026-07-10
+ACT-0496,Planning,Lookahead Planning,Prepare lookahead plan,Medium,2026-04-05,2026-04-11,,,Not Started,0,PLAN-B,1,N/A,2026-04-16
+ACT-0497,Construction,Punch List,Close punch item,Medium,2026-05-13,2026-05-22,2026-05-19,,In Progress,95,CONST-C,3,N/A,2026-06-04
+ACT-0498, PLANNING,Schedule Update,Refresh progress schedule,Medium,2026-01-24,2026-01-29,2026-01-29,2026-01-28,Completed,100,PLAN-B,1,N/A,2026-02-11
+ACT-0499,Engineering,Technical Query,Resolve site technical query,High,2026-02-04,2026-02-13,2026-02-04,2026-02-07,Completed,100,ENG-B,0,N/A,2026-02-09
+ACT-0500,Planning,Schedule Update,Update activity schedule,Low,2026-05-08,2026-05-23,,,Not Started,0,PLAN-A,0,N/A,2026-05-24
+ACT-0501,Construction,Site Preparation,Prepare work area,Low,2026-06-24,2026-06-26,2026-06-29,2026-06-19,Completed,100,CONST-C,3,N/A,2026-06-24
+ACT-0502,QA/QC,Inspection,Perform site inspection,High,2026-03-17,2026-04-06,2026-03-21,,In Progress,80,QA-A,0,N/A,2026-04-08
+ACT-0503,Construction,Punch List,Verify punch completion,Medium,2026-07-17,2026-08-05,,,Not Started,0,CONST-C,2,N/A,2026-07-23
+ACT-0504,Procurement,Purchase Review,Validate procurement status,High,2026-02-21,2026-03-09,2026-02-28,2026-04-01,Completed,100,PROC-A,1,Approved,2026-04-14
+ACT-0505,Procurement,Delivery Tracking,Track material delivery,Medium,2026-05-18,2026-05-24,2026-05-16,2026-06-01,Completed,100,PROC-A,0,N/A,2026-06-16
+ACT-0506,QA/QC,Test Package Review,Validate test records,High,2026-06-29,2026-07-15,2026-07-07,2026-07-30,Completed,100,QC-C,3,Pending,2026-08-14
+ACT-0507,QA/QC,Inspection,Conduct quality inspection,Medium,2026-01-31,2026-02-14,2026-02-01,,In Progress,25,QA-A,1,N/A,2026-02-19
+ACT-0508,Procurement,Vendor Follow-up,Follow up vendor response,Medium,2026-02-24,2026-03-08,2026-03-02,2026-03-13,Completed,100,PROC-B,1,N/A,2026-03-28
+ACT-0509,Procurement,Delivery Tracking,Update delivery schedule,Critical,2026-04-06,2026-04-23,2026-04-21,2026-04-27,Completed,100,PROC-A,0,N/A,2026-05-11
+ACT-0510,Engineering,Material Review,Validate material specification,Medium,2026-02-08,2026-02-10,2026-02-11,,In Progress,60,ENG-C,1,Pending,2026-02-20
+ACT-0511,Construction,Installation,Execute planned installation,High,2026-07-20,2026-08-06,2026-07-23,2026-08-11,Completed,100,CONST-C,0,N/A,2026-08-21
+ACT-0512,Construction,Installation,Install project component,High,2026-02-04,2026-02-18,2026-02-04,,In Progress,10,CONST-C,0,N/A,2026-02-21
+ACT-0513,Document Control,Transmittal,Track transmittal response,Medium,2026-04-25,2026-05-01,2026-04-23,2026-05-13,Completed,100,DOC-B,1,Approved,2026-05-30
+ACT-0514,Construction,Punch List,Resolve outstanding punch item,Low,2026-03-13,2026-03-30,2026-03-13,,In Progress,10,CONST-A,0,N/A,2026-03-14
+ACT-0515,Procurement,Delivery Tracking,Update delivery schedule,High,2026-07-19,2026-07-31,2026-07-27,2026-08-20,Completed,100,PROC-A,0,N/A,2026-08-21
+ACT-0516,Planning,Schedule Update,Update milestone tracker,Low,2026-03-24,2026-03-29,2026-03-24,2026-03-28,Completed,100,PLAN-B,3,N/A,2026-04-15
+ACT-0517,QA/QC,Test Package Review,Validate test records,Low,2026-03-27,2026-04-10,2026-04-02,2026-04-24,Completed,100,QC-C,2,Approved,2026-05-09
+ACT-0518,Procurement,Delivery Tracking,Track material delivery,High,2026-04-08,2026-04-23,2026-04-14,,In Progress,20,PROC-A,3,N/A,2026-05-01
+ACT-0519,QA/QC,Inspection,Verify completed installation,Critical,2026-04-17,2026-04-26,2026-04-25,2026-04-29,Completed,100,QA-A,1,N/A,2026-05-07
+ACT-0520,Construction,Rework,Complete required rework,Medium,2026-07-27,2026-07-31,2026-07-28,2026-08-18,Completed,100,CONST-B,0,N/A,2026-08-19
+ACT-0521,Construction,Rework,Rectify field discrepancy,High,2026-02-20,2026-02-22,2026-02-20,2026-03-03,Completed,100,CONST-B,2,N/A,2026-03-17
+ACT-0522,Document Control,Approval Tracking,Update approval register,High,2026-01-20,2026-02-07,2026-01-19,,In Progress,60,DOC-A,1,Approved,2026-01-21
+ACT-0523,Procurement,Delivery Tracking,Confirm delivery status,High,2026-03-11,2026-03-20,2026-03-15,2026-04-03,Completed,100,PROC-B,3,N/A,2026-04-17
+ACT-0524,Construction,Rework,Complete required rework,High,2026-01-14,2026-01-22,2026-01-20,2026-01-31,Completed,100,CONST-C,2,N/A,2026-02-05
+ACT-0525,Procurement,Purchase Review,Review purchase requirement,Low,2026-01-26,2026-02-07,2026-02-06,,In Progress,60,PROC-B,3,Pending,2026-02-08
+ACT-0526,Document Control,Revision Control,Update document revision,Low,2026-07-12,2026-07-30,2026-07-10,,In Progress,40,DOC-A,1,N/A,2026-07-12
+ACT-0527,Construction,Site Preparation,Complete site readiness activity,High,2026-07-12,2026-07-26,2026-07-14,,In Progress,30,CONST-A,0,N/A,2026-07-19
+ACT-0528,Document Control,Approval Tracking,Follow up document approval,Medium,2026-06-04,2026-06-07,2026-06-02,2026-06-24,Completed,100,DOC-A,1,Approved,2026-07-02
+ACT-0529,QA/QC,NCR Follow-up,Verify NCR closure,Low,2026-06-09,2026-06-12,2026-06-07,,In Progress,30,QA-B,0,N/A,2026-06-19
+ACT-0530,Construction,Site Preparation,Coordinate access preparation,Medium,2026-03-06,2026-03-22,2026-03-04,,In Progress,40,CONST-B,0,N/A,2026-03-11
+ACT-0531,QA/QC,Testing,Perform pressure test,High,2026-07-20,2026-08-04,2026-07-22,,In Progress,95,QC-C,1,N/A,2026-08-01
+ACT-0532,Construction,Installation,Complete field installation,High,2026-05-14,2026-05-18,2026-05-18,,In Progress,95,CONST-A,0,N/A,2026-05-18
+ACT-0533,Planning,Progress Review,Analyze progress status,Medium,2026-06-18,2026-06-24,,,Not Started,0,PLAN-B,0,N/A,2026-06-27
+ACT-0534,Construction,Installation,Complete field installation,Medium,2026-07-06,2026-07-12,2026-07-06,2026-07-09,Completed,100,CONST-B,1,N/A,2026-07-13
+ACT-0535,Engineering,Technical Query,Clarify design requirement,Medium,2026-04-21,2026-05-04,2026-04-29,,In Progress,10,ENG-A,4,N/A,2026-05-06
+ACT-0536,Document Control,Revision Control,Check revision history,High,2026-02-17,2026-02-20,2026-02-15,2026-02-23,Completed,100,DOC-A,1,N/A,2026-03-13
+ACT-0537,Engineering,Material Review,Validate material specification,High,2026-05-11,2026-05-16,2026-05-14,2026-06-03,Completed,100,ENG-A,0,Approved,2026-06-15
+ACT-0538,Construction,Punch List,Resolve outstanding punch item,Medium,2026-03-18,2026-03-26,2026-03-18,2026-04-09,Completed,100,CONST-A,0,N/A,2026-04-23
+ACT-0539,QA/QC,Test Package Review,Review test package,Low,2026-02-08,2026-02-20,2026-02-12,2026-02-28,Completed,100,QA-A,1,Approved,2026-03-02
+ACT-0540,Construction,Installation,Install project component,Critical,2026-05-05,2026-05-18,2026-05-12,,In Progress,80,CONST-A,2,N/A,2026-05-13
+ACT-0541,QA/QC,Test Package Review,Check package completeness,Critical,2026-06-25,2026-07-08,2026-06-28,2026-07-13,Completed,100,QA-B,0,Approved,2026-07-23
+ACT-0542,Engineering,Technical Query,Respond to engineering query,Medium,2026-02-10,2026-02-20,2026-02-13,,In Progress,95,ENG-B,1,N/A,2026-02-26
+ACT-0543,Document Control,Transmittal,Track transmittal response,High,2026-03-13,2026-03-31,2026-03-14,,In Progress,70,DOC-A,2,Pending,2026-03-28
+ACT-0544,Engineering,Design Review,Review engineering drawing,Medium,2026-05-05,2026-05-15,2026-05-05,,In Progress,70,ENG-B,1,Pending,2026-05-20
+ACT-0545,Construction,Punch List,Close punch item,Medium,2026-02-26,2026-03-09,2026-03-01,2026-03-12,Completed,100,CONST-A,3,N/A,2026-03-30
+ACT-0546,Construction,Installation,Execute planned installation,High,2026-02-20,2026-03-07,2026-02-23,2026-03-13,Completed,100,CONST-C,0,N/A,2026-03-22
+ACT-0547,Document Control,Document Submission,Prepare document for submission,Medium,2026-02-01,2026-02-13,2026-02-02,2026-02-22,Completed,100,DOC-B,1,Pending,2026-02-22
+ACT-0548, DOCUMENT CONTROL,Approval Tracking,Follow up document approval,Critical,2026-07-11,2026-07-31,2026-07-09,,In Progress,40,DOC-B,0,Pending,2026-07-11
+ACT-0549,Engineering,Technical Query,,Medium,2026-07-21,2026-08-04,2026-07-24,,In Progress,90,ENG-B,0,N/A,2026-08-02
+ACT-0550,Procurement,Delivery Tracking,Update delivery schedule,High,2026-04-06,2026-04-11,2026-04-08,2026-04-07,Completed,100,PROC-B,1,N/A,2026-04-25
+ACT-0551,Engineering,Material Review,Validate material specification,High,2026-04-26,2026-05-11,2026-04-28,2026-05-27,Completed,100,ENG-C,2,Approved,2026-06-11
+ACT-0552,Construction,Installation,Install project component,Medium,2026-01-25,2026-02-11,2026-01-27,,In Progress,40,CONST-B,3,N/A,2026-02-12
+ACT-0553,QA/QC,Inspection,Conduct quality inspection,Low,2026-01-16,2026-02-03,2026-01-16,,In Progress,40,QA-A,1,N/A,2026-02-03
+ACT-0554,Procurement,Material Request,Prepare material request,High,2026-05-03,2026-05-10,2026-05-07,,On Hold,40,PROC-B,3,Pending,2026-05-25
+ACT-0555,Procurement,Purchase Review,Check purchase documentation,High,2026-04-02,2026-04-09,2026-04-16,2026-05-01,Completed,100,PROC-A,2,Approved,2026-05-01
+ACT-0556,QA/QC,Inspection,Perform site inspection,High,2026-05-02,2026-05-16,2026-05-09,2026-05-20,Completed,100,QC-C,1,N/A,2026-05-31
+ACT-0557,Planning,Variance Review,Investigate progress variance,Low,2026-02-08,2026-02-10,2026-02-11,2026-02-02,Completed,100,PLAN-A,0,N/A,2026-02-17
+ACT-0558,Planning,Variance Review,Review delayed activity,High,2026-05-22,2026-05-30,2026-05-23,2026-05-29,Completed,100,PLAN-B,0,N/A,2026-06-02
+ACT-0559,Document Control,Approval Tracking,Track pending approval,High,2026-06-03,2026-06-12,2026-06-01,2026-06-10,Completed,100,DOC-B,0,Approved,2026-06-23
+ACT-0560,Procurement,Delivery Tracking,Track material delivery,Medium,2026-05-09,2026-05-27,2026-05-09,,In Progress,95,PROC-B,0,N/A,2026-05-09
+ACT-0561,Construction,Installation,Install project component,High,2026-04-21,2026-05-08,2026-04-21,,In Progress,70,CONST-A,2,N/A,2026-04-21
+ACT-0562,QA/QC,Testing,Perform pressure test,Medium,2026-03-05,2026-03-23,2026-03-10,,In Progress,90,QC-C,1,N/A,2026-03-19
+ACT-0563,Planning,Variance Review,Review delayed activity,High,2026-04-07,2026-04-24,2026-04-07,,In Progress,40,PLAN-B,2,N/A,2026-04-09
+ACT-0564,Engineering,Drawing Revision,Revise issued drawing,High,2026-01-30,2026-02-14,2026-01-29,2026-02-19,Completed,100,ENG-B,5,Approved,2026-02-27
+ACT-0565,Planning,Progress Review,Analyze progress status,Low,2026-01-21,2026-02-02,2026-01-21,2026-02-02,Completed,100,PLAN-B,0,N/A,2026-02-12
+ACT-0566,Procurement,Delivery Tracking,Track material delivery,High,2026-05-16,2026-05-21,2026-05-23,2026-05-29,Completed,100,PROC-A,3,N/A,2026-06-01
+ACT-0567,Procurement,Material Request,Coordinate material requirement,Low,2026-01-31,2026-02-07,2026-02-10,2026-02-07,Completed,100,PROC-B,0,Approved,2026-02-23
+ACT-0568,Planning,Schedule Update,Update activity schedule,High,2026-03-31,2026-04-06,2026-04-04,,On Hold,70,PLAN-B,2,N/A,2026-04-14
+ACT-0569,Construction,Installation,Install project component,Medium,2026-07-17,2026-08-01,2026-07-30,,In Progress,75,CONST-A,1,N/A,2026-08-06
+ACT-0570,Procurement,Purchase Review,Validate procurement status,High,2026-05-17,2026-05-30,2026-05-15,,In Progress,20,PROC-B,0,Pending,2026-05-20
+ACT-0571,Engineering,Design Review,Review technical specification,Critical,2026-02-12,2026-03-04,,,Not Started,0,ENG-B,2,Pending,2026-02-28
+ACT-0572,Construction,Site Preparation,Coordinate access preparation,High,2026-04-03,2026-04-05,2026-04-08,,In Progress,25,CONST-C,2,N/A,2026-04-22
+ACT-0573,QA/QC,Test Package Review,Validate test records,Medium,2026-07-24,2026-08-07,2026-07-27,,In Progress,95,QA-B,2,Pending,2026-08-13
+ACT-0574,QA/QC,NCR Follow-up,Review corrective evidence,Medium,2026-06-16,2026-06-23,,,Not Started,0,QC-C,3,N/A,2026-07-03
+ACT-0575,QA/QC,NCR Follow-up,Review corrective evidence,Medium,2026-05-14,2026-05-19,2026-05-15,,In Progress,75,QC-C,1,N/A,2026-05-16
+ACT-0576,Document Control,Approval Tracking,Follow up document approval,Medium,2026-01-06,2026-01-22,2026-01-07,2026-02-08,Completed,100,DOC-A,2,Pending,2026-02-25
+ACT-0577,QA/QC,NCR Follow-up,Review corrective evidence,High,2026-07-07,2026-07-27,2026-07-08,2026-07-25,Completed,100,QA-A,0,N/A,2026-08-12
+ACT-0578,Procurement,Delivery Tracking,Confirm delivery status,Low,2026-07-06,2026-07-21,2026-07-11,,In Progress,70,PROC-B,0,N/A,2026-07-27
+ACT-0579,Construction,Rework,Complete required rework,High,2026-06-16,2026-07-01,2026-06-20,,In Progress,95,CONST-A,5,N/A,2026-06-25
+ACT-0580,Construction,Rework,Rectify field discrepancy,Medium,2026-07-04,2026-07-22,2026-07-09,2026-08-04,Completed,100,CONST-B,2,N/A,2026-08-21
+ACT-0581,Document Control,Document Submission,Issue controlled document,High,2026-02-02,2026-02-07,2026-02-02,2026-02-20,Completed,100,DOC-B,0,Approved,2026-03-01
+ACT-0582,Engineering,Drawing Revision,Revise issued drawing,High,2026-04-22,2026-04-25,2026-04-22,2026-05-06,Completed,100,ENG-B,2,Approved,2026-05-23
+ACT-0583,Engineering,Design Review,Check design compliance,Medium,2026-03-25,2026-04-14,2026-03-25,,In Progress,25,ENG-B,2,Pending,2026-04-08
+ACT-0584,Planning,Progress Review,Analyze progress status,Medium,2026-07-28,2026-08-12,2026-08-01,,In Progress,10,PLAN-B,4,N/A,2026-08-15
+ACT-0585,Planning,Progress Review,Analyze progress status,Low,2026-06-15,2026-06-26,2026-06-19,2026-07-06,Completed,90,PLAN-A,1,N/A,2026-07-24
+ACT-0586,Document Control,Revision Control,Check revision history,Medium,2026-01-09,2026-01-14,2026-01-07,2026-01-14,Completed,100,DOC-B,0,N/A,2026-02-01
+ACT-0587,Engineering,Technical Query,Clarify design requirement,High,2026-05-10,2026-05-12,2026-05-12,2026-05-18,Completed,100,ENG-A,1,N/A,2026-05-20
+ACT-0588,Document Control,Revision Control,Check revision history,Medium,2026-03-11,2026-03-15,2026-03-18,2026-03-15,Completed,100,DOC-A,4,N/A,2026-03-20
+ACT-0589,Planning,Lookahead Planning,Review upcoming activities,Low,2026-02-10,2026-02-25,2026-02-10,,On Hold,20,PLAN-A,2,N/A,2026-02-28
+ACT-0590,Construction,Rework,Correct installation issue,Medium,2026-03-27,2026-04-12,2026-04-08,2026-05-03,Completed,100,CONST-B,4,N/A,2026-05-03
+ACT-0591,Construction,Installation,Complete field installation,High,2026-06-20,2026-06-26,2026-06-24,2026-07-15,Completed,100,CONST-B,0,N/A,2026-07-19
+ACT-0592,Construction,Punch List,Close punch item,Medium,2026-04-23,2026-05-12,2026-04-29,2026-05-08,Completed,100,CONST-A,0,N/A,2026-05-13
+ACT-0593,Engineering,Material Review,Validate material specification,High,2026-06-28,2026-07-12,2026-07-01,,In Progress,75,ENG-C,0,Pending,2026-07-18
+ACT-0594,Engineering,Design Review,Check design compliance,High,2026-02-09,2026-02-28,2026-02-12,2026-03-01,Completed,100,ENG-C,2,Pending,2026-03-11
+ACT-0595,QA/QC,Test Package Review,Check package completeness,Medium,2026-03-28,2026-04-09,2026-04-02,,In Progress,10,QC-C,1,Pending,2026-04-02
+ACT-0596,Engineering,Material Review,Validate material specification,Medium,2026-07-25,2026-07-29,2026-07-25,,In Progress,70,ENG-C,2,Pending,2026-08-06
+ACT-0597,QA/QC,Testing,Complete system testing,Critical,2026-02-05,2026-02-21,2026-02-07,,In Progress,90,QA-A,4,N/A,2026-02-18
+ACT-0598,Engineering,Technical Query,Respond to engineering query,Medium,2026-05-11,2026-05-24,,,Not Started,0,ENG-A,1,N/A,2026-05-17
+ACT-0599,Engineering,Material Review,Review material submittal,High,2026-05-30,2026-06-17,2026-06-01,2026-06-17,Completed,100,ENG-C,2,Approved,2026-06-19
+ACT-0600,Engineering,Design Review,Review engineering drawing,Medium,2026-05-30,2026-06-08,2026-05-28,,In Progress,90,ENG-C,0,Rejected,2026-06-14
+ACT-0601,QA/QC,Test Package Review,Review test package,Critical,2026-06-18,2026-06-21,2026-06-17,2026-07-11,Completed,100,QA-B,0,Approved,2026-07-26
+ACT-0602,Construction,Installation,Execute planned installation,Medium,2026-03-17,2026-04-01,2026-03-18,2026-04-18,Completed,100,CONST-C,3,N/A,2026-04-18
+ACT-0602,QA/QC,Test Package Review,Review test package,Critical,2026-02-24,2026-03-03,2026-03-03,2026-03-14,Completed,100,QA-B,1,Approved,2026-03-24
+ACT-0604,QA/QC,Test Package Review,Review test package,Critical,2026-01-18,2026-01-30,2026-01-20,2026-02-09,Completed,100,QC-C,1,Approved,2026-02-23
+ACT-0605,Engineering,Design Review,Review engineering drawing,Medium,2026-07-01,2026-07-05,2026-07-09,2026-07-15,Completed,100,ENG-C,1,Approved,2026-07-18
+ACT-0606,Engineering,Design Review,Check design compliance,High,2026-04-17,2026-04-22,2026-04-15,,In Progress,70,ENG-B,1,Approved,2026-04-18
+ACT-0607,Planning,Schedule Update,Refresh progress schedule,Medium,2026-06-04,2026-06-12,2026-06-09,2026-06-12,Completed,100,PLAN-A,3,N/A,2026-06-30
+ACT-0608,Construction,Site Preparation,Complete site readiness activity,Medium,2026-07-09,2026-07-25,2026-07-08,2026-08-08,Completed,100,CONST-B,1,N/A,2026-08-20
+ACT-0609,Construction,Punch List,Close punch item,Medium,2026-06-08,2026-06-20,2026-06-11,,In Progress,90,CONST-A,2,N/A,2026-06-12
+ACT-0610,Construction,Installation,Install project component,Medium,2026-02-25,2026-03-05,2026-02-25,,In Progress,80,CONST-C,2,N/A,2026-03-15
+ACT-0611,Document Control,Transmittal,Issue transmittal record,Medium,2026-01-31,2026-02-16,2026-02-06,,In Progress,10,DOC-A,2,Pending,2026-02-20
+ACT-0612,QA/QC,NCR Follow-up,Review corrective evidence,Medium,2026-04-17,2026-04-24,2026-04-19,2026-05-01,Completed,100,QA-B,1,N/A,2026-05-05
+ACT-0613,Construction,Site Preparation,Prepare work area,Critical,2026-02-24,2026-03-04,2026-02-27,2026-03-20,Completed,100,CONST-A,3,N/A,2026-03-27
+ACT-0614,Engineering,Drawing Revision,Update drawing comments,Critical,2026-01-10,2026-01-16,2026-01-12,,In Progress,30,ENG-C,1,Pending,2026-01-17
+ACT-0615,Document Control,Approval Tracking,Update approval register,Low,2026-02-10,2026-02-16,2026-02-10,2026-02-15,Completed,100,DOC-A,1,Rejected,2026-02-22
+ACT-0616,Procurement,Vendor Follow-up,Coordinate supplier action,Medium,2026-02-12,2026-02-24,2026-02-18,,In Progress,25,PROC-B,3,N/A,2026-03-08
+ACT-0617,QA/QC,Inspection,Verify completed installation,High,2026-06-11,2026-06-15,2026-06-09,,In Progress,75,QC-C,1,N/A,2026-06-19
+ACT-0618,QA/QC,Test Package Review,Validate test records,Critical,2026-05-06,2026-05-16,2026-05-13,,In Progress,90,QA-B,0,Pending,2026-05-19
+ACT-0619,document control,Approval Tracking,Track pending approval,Medium,2026-04-11,2026-05-01,2026-04-14,2026-04-30,Completed,100,DOC-B,2,Approved,2026-05-16
+ACT-0620,QA/QC,Inspection,Verify completed installation,Medium,2026-04-01,2026-04-16,2026-03-31,2026-04-26,Completed,100,QA-A,0,N/A,2026-04-26
+ACT-0621,Construction,Site Preparation,Coordinate access preparation,Low,2026-01-26,2026-02-06,2026-01-24,,In Progress,20,CONST-A,0,N/A,2026-02-04
+ACT-0622,Construction,Site Preparation,Prepare work area,High,2026-03-10,2026-03-21,2026-03-12,,In Progress,30,CONST-C,2,N/A,2026-03-16
+ACT-0623,Planning,Lookahead Planning,Prepare lookahead plan,High,2026-03-18,2026-03-31,2026-03-16,2026-04-07,Completed,100,PLAN-A,2,N/A,2026-04-22
+ACT-0624,Document Control,Revision Control,Update document revision,High,2026-02-27,2026-03-16,2026-02-25,2026-03-15,Completed,100,DOC-A,3,N/A,2026-03-25
+ACT-0625,QA/QC,Testing,Perform pressure test,High,2026-07-02,2026-07-17,2026-06-30,2026-07-27,Completed,100,QA-B,1,N/A,2026-07-31
+ACT-0626,Document Control,Document Submission,Prepare document for submission,High,2026-04-05,2026-04-17,2026-04-03,,In Progress,40,DOC-A,0,Pending,2026-04-04
+ACT-0627,Engineering,Technical Query,Respond to engineering query,High,2026-06-08,2026-06-28,2026-06-12,,In Progress,60,ENG-A,0,N/A,2026-06-24
+ACT-0628,Construction,Site Preparation,Coordinate access preparation,Critical,2026-06-17,2026-06-28,2026-06-24,2026-07-14,Completed,100,CONST-A,2,N/A,2026-07-29
+ACT-0629,Engineering,Design Review,Check design compliance,Medium,2026-03-05,2026-03-16,2026-03-07,2026-03-22,Completed,100,ENG-B,0,Approved,2026-04-04
+ACT-0630,Engineering,Design Review,Review engineering drawing,Medium,2026-05-07,2026-05-11,2026-05-10,,In Progress,95,ENG-B,2,Pending,2026-05-28
+ACT-0631,Construction,Rework,Complete required rework,Medium,2026-02-10,2026-02-26,,,Not Started,0,CONST-C,1,N/A,2026-02-17
+ACT-0632,QA/QC,Test Package Review,Check package completeness,Medium,2026-01-15,2026-01-19,2026-01-15,,In Progress,95,QC-C,3,Approved,2026-01-27
+ACT-0633,Procurement,Vendor Follow-up,Check vendor document status,Medium,2026-06-12,2026-06-27,2026-06-18,2026-07-06,Completed,100,PROC-A,1,N/A,2026-07-07
+ACT-0634,Document Control,Revision Control,Check revision history,High,2026-05-22,2026-06-02,2026-05-29,,In Progress,60,DOC-A,5,N/A,2026-06-15
+ACT-0635,Document Control,Document Submission,Submit project document,Medium,2026-07-23,2026-08-04,2026-07-26,2026-08-08,Completed,100,DOC-B,0,Approved,2026-08-22
+ACT-0636,QA/QC,Test Package Review,Review test package,Medium,2026-01-07,2026-01-17,2026-01-10,,In Progress,95,QC-C,1,Pending,2026-01-12
+ACT-0637,Planning,Variance Review,Analyze schedule variance,Medium,2026-03-17,2026-03-24,2026-03-19,2026-03-27,Completed,100,PLAN-A,1,N/A,2026-04-08
+ACT-0638,Engineering,Design Review,Review technical specification,Medium,2026-04-27,2026-05-10,2026-04-27,2026-04-29,Completed,100,ENG-C,1,Approved,2026-05-15
+ACT-0639,Planning,Schedule Update,Refresh progress schedule,High,2026-04-28,2026-05-01,2026-05-02,2026-05-06,Completed,100,PLAN-A,0,N/A,2026-05-13
+ACT-0640,Engineering,Material Review,Review material submittal,Critical,2026-04-01,2026-04-09,2026-04-11,2026-04-21,Completed,100,ENG-A,3,Approved,2026-04-26
+ACT-0641,Construction,Installation,Install project component,Medium,2026-06-14,2026-06-22,2026-06-21,2026-06-28,Completed,100,CONST-B,0,N/A,2026-07-01
+ACT-0642,QA/QC,Inspection,Verify completed installation,High,2026-01-08,2026-01-22,2026-01-11,2026-02-09,Completed,100,QA-A,1,N/A,2026-02-10
+ACT-0643,Document Control,Approval Tracking,Follow up document approval,High,2026-05-12,2026-05-17,2026-05-15,2026-05-04,Completed,100,DOC-B,0,Approved,2026-05-14
+ACT-0644,Planning,Progress Review,Validate reported progress,Medium,2026-07-18,2026-07-30,2026-07-18,2026-07-30,Completed,100,PLAN-B,4,N/A,2026-08-13
+ACT-0645,Construction,Punch List,Resolve outstanding punch item,High,2026-01-08,2026-01-17,,,Not Started,0,CONST-B,2,N/A,2026-01-11
+ACT-0646,QA/QC,Test Package Review,Review test package,High,2026-01-20,2026-01-26,2026-01-21,2026-02-06,Completed,100,QC-C,0,Pending,2026-02-20
+ACT-0647,Document Control,Revision Control,Check revision history,Medium,2026-07-25,2026-07-28,2026-08-01,2026-07-30,Completed,100,DOC-B,0,N/A,2026-08-09
+ACT-0648,QA/QC,Inspection,Conduct quality inspection,Critical,2026-07-29,2026-08-07,2026-07-29,,On Hold,70,QA-A,1,N/A,2026-08-04
+ACT-0649,Construction,Punch List,Close punch item,Medium,2026-02-18,2026-03-10,2026-02-23,,In Progress,75,CONST-B,0,N/A,2026-03-09
+ACT-0650,Engineering,Drawing Revision,Revise issued drawing,Medium,2026-06-09,2026-06-18,2026-06-07,2026-06-14,Completed,100,ENG-B,3,Approved,2026-06-25
+ACT-0651,QA/QC,Test Package Review,Check package completeness,Medium,2026-06-10,2026-06-25,2026-06-15,2026-06-20,COMPLETED,100,QC-C,1,Approved,2026-06-29
+ACT-0652,Construction,Punch List,Verify punch completion,Medium,2026-03-24,2026-04-09,2026-03-24,2026-04-15,Completed,100,CONST-A,2,N/A,2026-04-21
+ACT-0653,Document Control,Document Submission,Submit project document,High,2026-07-10,2026-07-23,2026-07-19,,In Progress,70,DOC-B,0,Rejected,2026-07-21
+ACT-0654,Document Control,Document Submission,Prepare document for submission,Critical,2026-02-15,2026-02-23,2026-02-13,,In Progress,95,DOC-A,0,Pending,2026-02-24
+ACT-0655,Planning,Variance Review,Review delayed activity,Medium,2026-05-07,2026-05-10,2026-05-05,2026-05-22,Completed,100,PLAN-B,2,N/A,2026-05-26
+ACT-0656,Construction,Punch List,Verify punch completion,Medium,2026-06-02,2026-06-09,,,Not Started,0,CONST-B,2,N/A,2026-06-14
+ACT-0657,Planning,Schedule Update,Update milestone tracker,Critical,2026-04-23,2026-04-30,2026-04-23,,In Progress,60,PLAN-A,1,N/A,2026-05-06
+ACT-0658,engineering,Technical Query,Resolve site technical query,Medium,2026-02-27,2026-03-13,2026-03-04,2026-03-22,Completed,100,ENG-C,0,N/A,2026-04-04
+ACT-0659,Construction,Site Preparation,Coordinate access preparation,Medium,2026-02-19,2026-03-04,2026-02-26,2026-03-04,Completed,100,CONST-A,0,N/A,2026-03-22
+ACT-0660,Engineering,Design Review,Review technical specification,Medium,2026-07-18,2026-07-26,2026-07-20,,In Progress,90,ENG-A,4,Pending,2026-07-25
+ACT-0661,QA/QC,Test Package Review,Review test package,Medium,2026-04-02,2026-04-04,2026-03-31,2026-04-12,Completed,100,QC-C,0,Approved,2026-04-12
+ACT-0662,Construction,Installation,Complete field installation,Medium,2026-07-26,2026-07-28,2026-07-24,2026-08-04,Completed,100,CONST-C,1,N/A,2026-08-14
+ACT-0663,Construction,Site Preparation,Coordinate access preparation,High,2026-03-26,2026-04-04,2026-03-27,2026-04-07,Completed,100,CONST-A,1,N/A,2026-04-17
+ACT-0664,Engineering,Material Review,Check technical datasheet,High,2026-02-09,2026-02-11,2026-02-12,,In Progress,50,ENG-C,1,Pending,2026-02-27
+ACT-0665,Construction,Punch List,Close punch item,Critical,2026-03-28,2026-03-30,2026-03-28,,In Progress,95,CONST-A,0,N/A,2026-04-11
+ACT-0666,Construction,Rework,Rectify field discrepancy,High,2026-01-25,2026-02-07,2026-02-05,,In Progress,20,CONST-C,2,N/A,2026-02-14
+ACT-0667,Engineering,Drawing Revision,Prepare revised drawing,High,2026-07-24,2026-08-11,,,Not Started,0,ENG-B,1,Pending,2026-08-10
+ACT-0668,Engineering,Material Review,Review material submittal,Medium,2026-05-23,2026-06-01,2026-05-21,2026-06-17,Completed,100,ENG-A,0,Rejected,2026-06-17
+ACT-0669,Document Control,Transmittal,Issue transmittal record,High,2026-03-02,2026-03-12,2026-03-02,,In Progress,90,DOC-A,0,Pending,2026-03-17
+ACT-0670,Procurement,Delivery Tracking,Track material delivery,Critical,2026-07-20,2026-07-24,2026-07-20,,In Progress,90,PROC-A,2,N/A,2026-08-02
+ACT-0671,QA/QC,Inspection,Verify completed installation,Low,2026-01-27,2026-02-08,2026-02-02,,In Progress,20,QA-B,1,N/A,2026-02-06
+ACT-0672,Document Control,Document Submission,Prepare document for submission,Low,2026-05-22,2026-05-30,2026-05-26,2026-06-02,Completed,100,DOC-A,2,Approved,2026-06-18
+ACT-0673,Engineering,Design Review,Review technical specification,High,2026-03-26,2026-04-01,2026-03-26,,In Progress,40,ENG-C,0,Pending,2026-03-27
+ACT-0674,QA/QC,Inspection,Verify completed installation,Critical,2026-07-04,2026-07-24,2026-07-09,,In Progress,95,QA-B,4,N/A,2026-07-10
+ACT-0675,Engineering,Drawing Revision,Prepare revised drawing,Critical,2026-03-03,2026-03-06,2026-03-05,,In Progress,90,ENG-C,4,Pending,2026-03-05
+ACT-0676,QA/QC,Test Package Review,Validate test records,Medium,2026-04-04,2026-04-18,2026-04-02,2026-04-22,Completed,100,QA-A,0,Approved,2026-05-04
+ACT-0677,Engineering,Design Review,Review technical specification,Medium,2026-06-21,2026-06-28,2026-06-28,2026-06-17,Completed,100,ENG-C,0,Approved,2026-06-23
+ACT-0678,Planning,Lookahead Planning,Update short-term plan,High,2026-01-31,2026-02-06,2026-02-01,,In Progress,25,PLAN-B,4,N/A,2026-02-04
+ACT-0679,Document Control,Revision Control,Update document revision,Low,2026-05-16,2026-05-28,2026-05-22,2026-05-29,Completed,100,DOC-B,0,N/A,2026-06-05
+ACT-0680,Construction,Punch List,Resolve outstanding punch item,High,2026-07-22,2026-07-26,2026-07-29,2026-07-27,Completed,100,CONST-A,2,N/A,2026-08-07
+ACT-0681,Engineering,Design Review,Review engineering drawing,Medium,2026-06-25,2026-07-13,2026-06-23,2026-07-06,Completed,100,ENG-A,2,Approved ,2026-07-24
+ACT-0682,QA/QC,Test Package Review,Check package completeness,Medium,2026-01-30,2026-02-11,,,Not Started,0,QA-B,3,Approved,2026-02-04
+ACT-0683,Procurement,Material Request,Validate requested quantity,Medium,2026-05-22,2026-06-09,2026-05-21,,In Progress,20,PROC-A,2,Pending,2026-05-24
+ACT-0684,Document Control,Revision Control,Update document revision,Medium,2026-07-28,2026-08-09,2026-07-28,2026-08-14,Completed,100,DOC-A,1,N/A,2026-08-15
+ACT-0685,Document Control,Transmittal,Issue transmittal record,Critical,2026-02-17,2026-03-04,2026-02-20,,In Progress,10,DOC-B,4,Pending,2026-03-01
+ACT-0686,Engineering,Material Review,Check technical datasheet,Medium,2026-04-05,2026-04-24,2026-04-05,2026-04-19,Completed,100,ENG-A,0,Approved,2026-04-25
+ACT-0687,Construction,Punch List,Resolve outstanding punch item,Medium,2026-02-06,2026-02-21,,,Not Started,0,CONST-C,0,N/A,2026-02-18
+ACT-0688,Document Control,Approval Tracking,Follow up document approval,Low,2026-03-11,2026-03-26,2026-03-14,,In Progress,90,DOC-A,2,Pending,2026-03-25
+ACT-0689,Construction,Punch List,Verify punch completion,Critical,2026-04-26,2026-05-10,,,Not Started,0,CONST-B,1,N/A,2026-04-28
+ACT-0690,Engineering,Design Review,Review technical specification,Medium,2026-01-21,2026-02-02,2026-01-24,2026-02-03,Completed,100,ENG-A,3,Approved,2026-02-03
+ACT-0691,QA/QC,Testing,Perform pressure test,Critical,2026-07-24,2026-07-29,2026-07-29,,In Progress,70,QC-C,0,N/A,2026-08-09
+ACT-0692,Construction,Site Preparation,Coordinate access preparation,Medium,2026-01-30,2026-02-02,2026-02-06,2026-02-09,Completed,100,CONST-C,2,N/A,2026-02-26
+ACT-0693,Construction,Rework,Complete required rework,High,2026-03-12,2026-03-14,2026-03-13,2026-03-13,Completed,100,CONST-A,1,N/A,2026-03-21
+ACT-0694,Document Control,Transmittal,Track transmittal response,High,2026-06-27,2026-07-12,2026-07-03,,In Progress,40,DOC-B,4,Pending,2026-07-10
+ACT-0695,Construction,Installation,Install project component,Medium,2026-03-26,2026-03-30,2026-04-09,2026-04-09,Completed,100,CONST-C,1,N/A,2026-04-11
+ACT-0696,QA/QC,Test Package Review,Review test package,Critical,2026-04-23,2026-05-11,2026-04-27,2026-05-06,Completed,100,QA-B,2,Approved,2026-05-09
+ACT-0697,Engineering,Drawing Revision,Prepare revised drawing,Low,2026-04-23,2026-05-12,2026-04-24,2026-05-15,Completed,100,ENG-C,3,Pending,2026-05-31
+ACT-0698,Construction,Rework,Correct installation issue,High,2026-07-19,2026-08-06,2026-07-17,2026-08-13,Completed,100,CONST-B,1,N/A,2026-08-14
+ACT-0699,Construction,Punch List,Verify punch completion,Critical,2026-04-01,2026-04-10,2026-04-05,,In Progress,40,CONST-B,0,N/A,2026-04-14
+ACT-0700,QA/QC,Test Package Review,Review test package,Critical,2026-06-18,2026-07-06,2026-06-24,,In Progress,50,QA-B,0,Pending,2026-07-03
+ACT-0701,Engineering,Technical Query,Respond to engineering query,Medium,2026-04-05,2026-04-07,2026-04-07,2026-04-20,Completed ,100,ENG-B,0,N/A,2026-04-23
+ACT-0702,Engineering,Technical Query,Resolve site technical query,Medium,2026-04-10,2026-04-21,2026-04-14,,In Progress,40,ENG-C,0,N/A,2026-04-28
+ACT-0703,Procurement,Vendor Follow-up,Follow up vendor response,Medium,2026-04-26,2026-04-28,2026-05-01,2026-05-06,Completed,100,PROC-B,0,N/A,2026-05-18
+ACT-0704,Procurement,Material Request,Prepare material request,High,2026-05-07,2026-05-17,2026-05-07,,In Progress,60,PROC-A,1,Approved,2026-05-19
+ACT-0705,Engineering,Design Review,Review engineering drawing,Medium,2026-04-03,2026-04-21,,,Not Started,0,ENG-B,2,Pending,2026-04-13
+ACT-0706,Document Control,Document Submission,Prepare document for submission,Medium,2026-03-18,2026-04-04,2026-03-19,2026-03-30,Completed,90,DOC-B,0,Approved,2026-04-02
+ACT-0707,Document Control,Revision Control,Maintain revision register,High,2026-02-24,2026-03-13,2026-02-22,,In Progress,75,DOC-A,1,N/A,2026-02-28
+ACT-0708,QA/QC,Testing,Perform pressure test,Low,2026-02-23,2026-03-01,2026-02-24,2026-03-05,Completed,100,QC-C,1,N/A,2026-03-14
+ACT-0709,Construction,Punch List,Close punch item,Medium,2026-05-07,2026-05-10,2026-05-08,2026-05-14,Completed,100,CONST-C,0,N/A,2026-05-25
+ACT-0710,Construction,Site Preparation,Prepare work area,Medium,2026-01-05,2026-01-08,2026-01-06,2026-01-23,Completed,90,CONST-A,1,N/A,2026-02-05
+ACT-0711,QA/QC,Test Package Review,Check package completeness,Medium,2026-02-02,2026-02-07,2026-02-02,2026-02-02,Completed,100,QC-C,1,Approved,2026-02-20
+ACT-0712,Construction,Punch List,Resolve outstanding punch item,Medium,2026-06-03,2026-06-17,2026-06-10,,On Hold,60,CONST-C,3,N/A,2026-06-16
+ACT-0713,Construction,Installation,Complete field installation,Critical,2026-06-12,2026-06-24,2026-06-18,2026-07-04,Completed,100,CONST-A,0,N/A,2026-07-08
+ACT-0714,Construction,Site Preparation,Coordinate access preparation,Critical,2026-04-08,2026-04-24,2026-04-07,2026-04-25,Completed,90,CONST-A,1,N/A,2026-05-11
+ACT-0715,Engineering,Technical Query,Respond to engineering query,Critical,2026-03-20,2026-03-23,2026-03-23,2026-04-02,Completed,100,ENG-C,3,N/A,2026-04-17
+ACT-0716,Construction,Installation,Complete field installation,Medium,2026-05-15,2026-05-29,2026-05-17,2026-06-03,Completed,100,CONST-A,0,N/A,2026-06-21
+ACT-0717,Construction,Installation,Execute planned installation,Medium,2026-07-05,2026-07-23,2026-07-06,,In Progress,40,CONST-A,1,N/A,2026-07-11
+ACT-0718,Engineering,Drawing Revision,Update drawing comments,Low,2026-02-11,2026-02-21,2026-02-11,,In Progress,30,ENG-C,1,Pending,2026-02-22
+ACT-0719,Construction,Site Preparation,Complete site readiness activity,Low,2026-07-04,2026-07-23,2026-07-14,2026-08-07,Completed,100,CONST-B,5,N/A,2026-08-07
+ACT-0720,QA/QC,NCR Follow-up,Follow up corrective action,Medium,2026-01-09,2026-01-28,2026-01-09,,In Progress,80,QC-C,0,N/A,2026-01-21
+ACT-0721,QA/QC,Testing,Perform pressure test,Medium,2026-03-14,2026-03-22,2026-03-18,2026-03-17,Completed,100,QA-B,0,N/A,2026-03-30
+ACT-0722,Engineering,Material Review,Review material submittal,Medium,2026-05-02,2026-05-09,2026-05-05,,In Progress,40,ENG-B,0,Pending,2026-05-10
+ACT-0723,Planning,Progress Review,Review weekly progress,Medium,2026-04-24,2026-05-03,2026-04-29,,In Progress,95,PLAN-A,1,N/A,2026-04-29
+ACT-0724,QA/QC,Inspection,Perform site inspection,High,2026-07-19,2026-07-22,2026-07-21,,In Progress,10,QC-C,4,N/A,2026-07-24
+ACT-0725,Planning,Lookahead Planning,Update short-term plan,Low,2026-02-09,2026-02-26,2026-02-07,,In Progress,40,PLAN-A,0,N/A,2026-02-11
+ACT-0726,Engineering,Technical Query,Respond to engineering query,Medium,2026-01-10,2026-01-13,2026-01-10,,In Progress,30,ENG-B,0,N/A,2026-01-23
+ACT-0727,Engineering,Technical Query,Resolve site technical query,Critical,2026-06-29,2026-07-13,2026-07-05,,In Progress,70,ENG-A,0,N/A,2026-07-08
+ACT-0728,Engineering,Technical Query,Clarify design requirement,Low,2026-03-31,2026-04-05,2026-04-03,2026-04-08,Completed,100,ENG-C,0,N/A,2026-04-21
+ACT-0729,QA/QC,Testing,Complete system testing,Medium,2026-06-24,2026-07-05,2026-06-24,2026-07-27,Completed,100,QA-B,1,N/A,2026-08-07
+ACT-0730,Procurement,Material Request,Prepare material request,High,2026-02-12,2026-02-18,2026-02-12,,In Progress,20,PROC-A,0,Pending,2026-02-20
+ACT-0731,Engineering,Drawing Revision,Revise issued drawing,High,2026-04-05,2026-04-17,2026-04-10,2026-05-02,Completed,100,ENG-B,2,Approved,2026-05-09
+ACT-0732,Construction,Rework,Rectify field discrepancy,Medium,2026-05-21,2026-06-09,2026-05-23,2026-06-11,Completed,100,CONST-C,1,N/A,2026-06-18
+ACT-0733,Engineering,Technical Query,Resolve site technical query,Medium,2026-01-09,2026-01-22,2026-01-09,,In Progress,10,ENG-A,4,N/A,2026-01-20
+ACT-0734,QA/QC,Testing,Complete system testing,Critical,2026-04-22,2026-05-01,2026-04-25,2026-05-21,Completed,100,QA-B,2,N/A,2026-05-25
+ACT-0735,Planning,Variance Review,Investigate progress variance,Low,2026-02-01,2026-02-21,,,Not Started,0,PLAN-A,3,N/A,2026-02-06
+ACT-0736,Engineering,Drawing Revision,Revise issued drawing,Medium,2026-01-08,2026-01-28,2026-01-06,2026-02-08,Completed,100,ENG-B,0,Approved,2026-02-17
+ACT-0737,Construction,Site Preparation,Complete site readiness activity,High,2026-07-01,2026-07-03,2026-07-08,2026-07-26,Completed,100,CONST-A,2,N/A,2026-08-11
+ACT-0738,Engineering,Material Review,Check technical datasheet,Critical,2026-05-01,2026-05-20,2026-05-02,2026-06-04,Completed,100,ENG-A,0,Pending,2026-06-12
+ACT-0739,Construction,Punch List,Resolve outstanding punch item,Medium,2026-06-12,2026-06-15,2026-06-18,2026-07-07,Completed,100,CONST-B,3,N/A,2026-07-21
+ACT-0740,QA/QC,Test Package Review,Check package completeness,Medium,2026-07-29,2026-08-11,2026-07-31,2026-08-21,Completed,100,QA-A,1,Approved,2026-08-21
+ACT-0741,QA/QC,Inspection,Perform site inspection,Medium,2026-01-07,2026-01-18,2026-01-12,2026-02-11,Completed,100,QC-C,0,N/A,2026-03-01
+ACT-0742,Engineering,Material Review,Review material submittal,Low,2026-01-28,2026-02-08,,,Not Started,0,ENG-C,1,Pending,2026-02-09
+ACT-0743,Engineering,Material Review,Check technical datasheet,Medium,2026-02-07,2026-02-12,2026-02-12,2026-02-12,Completed,100,ENG-B,2,Approved,2026-02-24
+ACT-0744,Construction,Installation,Install project component,Medium,2026-06-28,2026-07-14,,,Not Started,0,CONST-A,1,N/A,2026-07-05
+ACT-0745,Procurement,Vendor Follow-up,Coordinate supplier action,Medium,2026-05-13,2026-05-31,2026-05-13,,In Progress,25,PROC-B,0,N/A,2026-05-24
+ACT-0746,Engineering,Material Review,Review material submittal,Medium,2026-06-10,2026-06-14,2026-06-09,2026-06-22,Completed,100,ENG-C,0,Approved,2026-07-01
+ACT-0747,Document Control,Document Submission,Prepare document for submission,Low,2026-03-26,2026-04-02,2026-03-27,2026-04-04,Completed,100,DOC-B,0,Approved,2026-04-18
+ACT-0748,Document Control,Transmittal,Issue transmittal record,High,2026-02-09,2026-02-14,2026-02-14,2026-02-14,Completed,100,DOC-B,1,Approved,2026-02-18
+ACT-0749,QA/QC,NCR Follow-up,Verify NCR closure,Low,2026-04-20,2026-05-08,2026-04-24,,In Progress,10,QC-C,1,N/A,2026-04-25
+ACT-0750,Procurement ,Material Request,Prepare material request,High,2026-03-20,2026-04-03,2026-03-22,2026-04-16,Completed,100,PROC-B,1,Approved,2026-04-30
