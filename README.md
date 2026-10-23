@@ -9,7 +9,7 @@ Activity trackers collect missing fields, inconsistent categories, duplicate IDs
 - A [Power BI report](03_PowerBI/operations_reporting_dashboard.pbix) with overdue workload, schedule status, filters, and an overdue action list, plus a [screenshot](04_Images/dashboard_screenshot.png) of that report
 - A short [findings note](05_Documentation/key_findings.md) for the saved snapshot
 
-All data in this repo is synthetic demo/sample data, not client work.
+All data in this repo is synthetic demo/sample data, not client work. No real employer or client data is used.
 
 ![Operational reporting dashboard with overdue workload, schedule status and action list](04_Images/dashboard_screenshot.png)
 
